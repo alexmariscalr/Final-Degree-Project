@@ -1,0 +1,644 @@
+APK;matches_list;total
+com.apalon.flight.tracker;['com.applovin', 'com.google.firebase', 'com.adjust.sdk', 'com.fyber', 'com.ironsource', 'com.ironsource.sdk', 'com.amplitude', 'com.google.android.gms'];8
+com.givvyresty;['com.google.firebase', 'com.tapjoy', 'com.applovin', 'com.adcolony', 'com.fyber', 'com.vungle', 'com.ironsource', 'com.ironsource.sdk'];8
+com.apalon.myclockfree;['com.adjust.sdk', 'com.applovin', 'com.fyber', 'com.ironsource', 'net.pubnative', 'com.vungle', 'com.ironsource.sdk'];7
+com.millecrepestudios.couplelife;['com.singular.sdk', 'com.applovin', 'com.fyber', 'com.adcolony', 'com.ironsource', 'com.vungle', 'com.ironsource.sdk'];7
+com.bearhugmedia.android;['com.google.android.gms', 'com.google.firebase', 'com.applovin', 'com.adcolony', 'com.ironsource', 'com.ironsource.sdk'];6
+io.hexman.xiconchanger;['com.applovin', 'com.adcolony', 'com.fyber', 'com.vungle', 'com.appsflyer', 'com.google.android.gms'];6
+bolo.codeplay.com.bolo;['com.google.android.gms', 'com.google.firebase', 'com.ironsource', 'com.appsflyer', 'com.ironsource.sdk'];5
+cc.forestapp;['com.google.firebase', 'com.vungle', 'com.adcolony', 'com.applovin', 'com.mopub'];5
+com.edjing.edjingdjturntable;['com.appsflyer', 'com.applovin', 'com.vungle', 'com.ironsource', 'com.ironsource.sdk'];5
+com.makervideoimage.fortiktok;['com.startapp', 'com.appodeal.ads', 'io.bidmachine', 'com.applovin', 'com.criteo.publisher'];5
+com.mistplay.mistplay;['com.google.firebase', 'com.mixpanel.android', 'com.leanplum', 'com.google.android.gms', 'com.appsflyer'];5
+com.mwm.guitartuner;['com.appsflyer', 'com.applovin', 'com.vungle', 'com.ironsource', 'com.ironsource.sdk'];5
+com.wwwave.mangapon;['com.google.android.gms', 'com.google.firebase', 'com.ironsource', 'com.ironsource.sdk', 'com.tapjoy'];5
+downloader.video.download.free;['com.google.android.gms', 'com.fyber', 'com.ironsource', 'com.applovin', 'com.ironsource.sdk'];5
+io.funswitch.blocker;['com.revenuecat.purchases', 'com.google.android.gms', 'com.google.firebase', 'com.appsflyer', 'com.onesignal'];5
+app.peliculas.gratis;['com.ironsource', 'com.onesignal', 'com.ironsource.sdk', 'com.adcolony'];4
+br.com.rodrigokolb.classicdrum;['com.google.android.gms', 'com.google.firebase', 'com.vungle', 'com.applovin'];4
+br.com.rodrigokolb.realdrum;['com.vungle', 'com.google.android.gms', 'com.google.firebase', 'com.applovin'];4
+co.dilmil.android;['com.google.firebase', 'com.leanplum', 'com.adjust.sdk', 'com.google.android.gms'];4
+com.appkarma.app;['com.google.firebase', 'com.mixpanel.android', 'com.onesignal', 'com.google.android.gms'];4
+com.delaware.empark;['io.sentry', 'com.google.android.gms', 'com.google.firebase', 'com.salesforce.marketingcloud'];4
+com.eddress.getgoodys;['com.appboy', 'com.optimizely.ab', 'com.google.android.gms', 'com.google.firebase'];4
+com.empat.wory;['com.adjust.sdk', 'com.google.android.gms', 'com.google.firebase', 'com.appsflyer'];4
+com.jeremysteckling.facerrel;['com.google.firebase', 'com.adcolony', 'com.appsflyer', 'com.onesignal'];4
+com.july.euro;['com.google.firebase', 'com.mparticle', 'com.snowplowanalytics', 'com.onesignal'];4
+com.kivi.live;['com.applovin', 'com.google.android.gms', 'com.google.firebase', 'com.appsflyer'];4
+com.kraftwerk9.remotie;['com.appodeal.ads', 'io.bidmachine', 'com.criteo.publisher', 'com.applovin'];4
+com.mason.wooplus;['com.google.android.gms', 'com.google.firebase', 'com.tencent.bugly', 'com.appsflyer'];4
+com.miniclip.plagueinc;['com.applovin', 'com.fyber', 'com.ironsource', 'com.ironsource.sdk'];4
+com.modanisa;['com.newrelic.agent.android', 'com.useinsider', 'com.google.android.gms', 'com.google.firebase'];4
+com.poppycoloringpages.coloringplaytimechapter2game;['com.ironsource', 'com.ironsource.sdk', 'com.onesignal', 'com.google.android.gms'];4
+com.project.vivareal;['com.google.firebase', 'com.salesforce.marketingcloud', 'com.comscore', 'com.apptimize'];4
+com.rarewire.forever21;['com.google.firebase', 'com.newrelic.agent.android', 'com.salesforce.marketingcloud', 'com.google.android.gms'];4
+com.runtastic.android.results.lite;['com.newrelic.agent.android', 'com.adjust.sdk', 'com.google.android.gms', 'com.google.firebase'];4
+com.twocatsapp.ombroamigo;['com.ironsource', 'com.ironsource.sdk', 'com.applovin', 'com.onesignal'];4
+com.weather.weatherforcast.aleart.widget;['com.applovin', 'com.vungle', 'com.ironsource', 'com.ironsource.sdk'];4
+com.zaza.beatbox;['com.google.firebase', 'com.applovin', 'com.adcolony', 'com.google.android.gms'];4
+de.quandoo.android.consumerapp;['com.google.firebase', 'com.leanplum', 'com.google.android.gms', 'com.adjust.sdk'];4
+emoji.keyboard.fonts.stickers.gif.keyboard.moji;['com.adcolony', 'com.google.firebase', 'com.google.android.gms', 'com.applovin'];4
+gallery.photomanager.picturegalleryapp.imagegallery;['com.applovin', 'com.vungle', 'com.ironsource', 'com.ironsource.sdk'];4
+homemakes.how;['com.appodeal.ads', 'io.bidmachine', 'com.criteo.publisher', 'com.applovin'];4
+io.walkietalkie;['com.batch.android', 'com.adcolony', 'com.appsflyer', 'com.applovin'];4
+it.ideasolutions.amerigo;['com.applovin', 'com.fyber', 'com.criteo.publisher', 'com.adcolony'];4
+ru.mybook;['com.google.firebase', 'com.amplitude', 'com.appsflyer', 'com.google.android.gms'];4
+video.reface.app;['com.google.firebase', 'com.google.android.gms', 'com.appsflyer', 'com.amplitude'];4
+at.paysafecard.android;['com.bugsnag', 'com.adjust.sdk', 'com.salesforce.marketingcloud'];3
+beautyrooom.filtersforselfie.sweet.face.camera.selfies;['com.ironsource', 'com.ironsource.sdk', 'com.applovin'];3
+br.com.escolhatecnologia.voztradutor;['com.startapp', 'com.onesignal', 'com.google.android.gms'];3
+com.aplazame;['com.google.firebase', 'com.amplitude', 'com.onesignal'];3
+com.BorderLight.LED.Color.Live.Wallpaper;['com.onesignal', 'com.applovin', 'com.google.android.gms'];3
+com.chapter3.fbr.battleroyale;['com.applovin', 'com.ironsource', 'com.google.android.gms'];3
+com.ehf.app.android;['com.google.android.gms', 'com.google.firebase', 'com.onesignal'];3
+com.fiatc;['com.salesforce.marketingcloud', 'com.google.android.gms', 'com.google.firebase'];3
+com.four4glte.only.networkmode;['com.google.android.gms', 'com.google.firebase', 'com.applovin'];3
+com.gonatuparaapp.livenetsports;['com.google.firebase', 'com.onesignal', 'com.google.android.gms'];3
+com.grability.rappi;['com.google.firebase', 'com.amplitude', 'com.appsflyer'];3
+com.hitrolab.audioeditor;['com.applovin', 'com.ironsource', 'com.ironsource.sdk'];3
+com.iyia.repost;['com.microsoft.appcenter', 'com.google.android.gms', 'com.google.firebase'];3
+com.jee.calc;['com.applovin', 'com.google.android.gms', 'com.google.firebase'];3
+com.juduku.juduku;['com.revenuecat.purchases', 'com.onesignal', 'com.appsflyer'];3
+com.karmamobile;['com.salesforce.marketingcloud', 'com.stripe', 'com.adjust.sdk'];3
+com.lomotif.android;['com.google.firebase', 'com.moengage', 'com.amplitude'];3
+com.macsoftex.portrait;['com.onesignal', 'com.google.android.gms', 'com.google.firebase'];3
+com.mangamo.app;['com.appsflyer', 'com.google.firebase', 'com.google.android.gms'];3
+com.mexic.memes.stickers;['com.applovin', 'com.onesignal', 'com.google.firebase'];3
+com.mirror.news;['com.google.android.gms', 'com.google.firebase', 'com.comscore'];3
+com.mktech.videoder;['com.onesignal', 'com.applovin', 'com.google.firebase'];3
+com.monday.monday;['com.appsflyer', 'com.google.android.gms', 'com.google.firebase'];3
+com.nordicwise.translator;['com.onesignal', 'com.amplitude', 'com.appsflyer'];3
+com.noxgroup.app.cleaner;['com.adjust.sdk', 'com.google.android.gms', 'com.google.firebase'];3
+com.opodo.reisen;['com.google.firebase', 'com.google.android.gms', 'com.appsflyer'];3
+com.paperlit.android.repubblica;['com.google.firebase', 'com.salesforce.marketingcloud', 'com.google.android.gms'];3
+com.piccollage.freecollagemaker.photocollage;['com.applovin', 'com.google.android.gms', 'com.onesignal'];3
+com.quanticapps.remotetvs;['com.batch.android', 'com.revenuecat.purchases', 'com.applovin'];3
+com.speakandtranslate.voicetranslator.alllanguages;['com.google.android.gms', 'com.google.firebase', 'com.onesignal'];3
+com.technogym.mywellness.metropolitanwellness;['com.google.firebase', 'com.onesignal', 'com.google.android.gms'];3
+com.text.translate.all.language.translator.voicetraductor.phototranslator;['com.google.android.gms', 'com.google.firebase', 'com.applovin'];3
+com.thisclicks.wiw;['com.adjust.sdk', 'com.google.android.gms', 'com.google.firebase'];3
+com.titaniumapp.gggameturbo;['com.applovin', 'com.google.android.gms', 'com.google.firebase'];3
+com.tonicapp;['com.google.firebase', 'com.newrelic.agent.android', 'com.google.android.gms'];3
+com.trace.main;['com.ironsource.sdk', 'com.ironsource', 'com.google.android.gms'];3
+com.ttech.android.onlineislem;['com.google.firebase', 'com.useinsider', 'com.google.android.gms'];3
+com.wemagineai.voila;['com.appsflyer', 'com.applovin', 'com.onesignal'];3
+com.woomfertility.woomapp;['com.google.android.gms', 'com.google.firebase', 'com.clevertap.android'];3
+fill.up.the.frigde.organization.games;['com.tencent.bugly', 'com.startapp', 'com.appsflyer'];3
+fm.castbox.audiobook.radio.podcast;['com.google.android.gms', 'com.google.firebase', 'com.adjust.sdk'];3
+free.videodownloader.downloadvideos.hd;['com.vungle', 'com.applovin', 'com.google.android.gms'];3
+gr.pixelab.sketch;['com.appodeal.ads', 'io.bidmachine', 'com.criteo.publisher'];3
+group.flowbird.mpp;['com.google.firebase', 'com.google.android.gms', 'com.batch.android'];3
+losefat.forwomen.homeworkouts;['com.google.android.gms', 'com.google.firebase', 'com.applovin'];3
+mymusic.offlinemusicplayer.mp3player.playmusic;['com.google.firebase', 'com.applovin', 'com.google.android.gms'];3
+neon.horns.devil;['com.ironsource', 'com.ironsource.sdk', 'com.applovin'];3
+net.bitburst.pollpay;['com.mparticle', 'com.clevertap.android', 'io.sentry'];3
+photoeditor.oldfilter.retroeffect.vintagecamera;['com.google.android.gms', 'com.google.firebase', 'com.microsoft.appcenter'];3
+pilatesworkouts.loseweight.dailyyoga;['com.applovin', 'com.google.android.gms', 'com.google.firebase'];3
+radio.online.romania;['com.criteo.publisher', 'com.google.firebase', 'net.pubnative'];3
+tatoo.tattoo.design;['com.adcolony', 'com.applovin', 'com.google.android.gms'];3
+voiceapp.AlexaCommands;['com.my.target', 'com.google.android.gms', 'com.google.firebase'];3
+yogaworkouts.dailyyoga.yogafitness;['com.applovin', 'com.google.firebase', 'com.google.android.gms'];3
+app.bhupesh.armorking.tanglefree;['com.ironsource', 'com.ironsource.sdk'];2
+app.master.girl.skins;['com.applovin', 'com.google.android.gms'];2
+app.perfectposture;['com.applovin', 'com.google.firebase'];2
+app.sarhne.com;['com.google.android.gms', 'com.onesignal'];2
+br.com.escolhatecnologia.vozdonarrador;['com.applovin', 'com.onesignal'];2
+br.com.vw.connected.car.argentina;['com.google.firebase', 'com.salesforce.marketingcloud'];2
+com.ab.drinkwaterapp;['com.appsflyer', 'com.google.android.gms'];2
+com.aircanada;['com.mparticle', 'com.google.firebase'];2
+com.airthings.airthings;['com.google.android.gms', 'com.google.firebase'];2
+com.allinonesocialmedia.allinonesocialnetwork;['com.ironsource', 'com.ironsource.sdk'];2
+com.anime;['com.startapp', 'com.onesignal'];2
+com.appmystique.businesscardmaker;['com.google.android.gms', 'com.google.firebase'];2
+com.appsdrg.comidarapidafacil;['com.google.firebase', 'com.google.android.gms'];2
+com.appsfornexus.dailysciencenews;['com.google.firebase', 'com.google.android.gms'];2
+com.asiainno.uplive.aiglamour;['com.google.firebase', 'com.adjust.sdk'];2
+com.autotuneyourvoice.withmusic.auto.tune;['com.ironsource', 'com.ironsource.sdk'];2
+com.avg.android.vpn;['com.google.firebase', 'com.appsflyer'];2
+com.aviapp.translator;['com.google.android.gms', 'com.google.firebase'];2
+com.bas.hit.volm.dy;['com.kochava.base', 'com.applovin'];2
+com.benderdating.app;['com.revenuecat.purchases', 'io.sentry'];2
+com.bestringtonesapps.popularringtones;['com.google.android.gms', 'com.appsflyer'];2
+com.binarygraft.pokewalk;['com.ironsource', 'com.ironsource.sdk'];2
+com.brandbassadoras.brandbassador;['com.onesignal', 'com.mixpanel.android'];2
+com.broken;['com.startapp', 'com.onesignal'];2
+com.buzzarab.buzzarab;['com.applovin', 'com.chartboost'];2
+com.cabify.rider;['com.google.firebase', 'com.adjust.sdk'];2
+com.cartoonphotomaker.cartoonphotoeditor;['com.google.android.gms', 'com.google.firebase'];2
+com.channel.weather.forecast.live.radar;['com.applovin', 'com.google.android.gms'];2
+com.coches.app.android;['com.google.android.gms', 'com.google.firebase'];2
+com.colt;['com.google.firebase', 'com.google.android.gms'];2
+com.corepix.videorecording;['com.google.android.gms', 'com.google.firebase'];2
+com.cute.wallpapers;['com.startapp', 'com.onesignal'];2
+com.cyberlink.powerdirector.DRA140225;['com.google.android.gms', 'com.google.firebase'];2
+com.dafoudil.collectionBAKIHANMAwallpaper;['com.startapp', 'com.applovin'];2
+com.daily.holybiblelite;['com.appsflyer', 'com.google.android.gms'];2
+com.dentist.jrimark;['com.startapp', 'com.google.android.gms'];2
+com.devsoftmatic.ronaldowallpapers;['com.applovin', 'com.onesignal'];2
+com.document.viewer.office;['com.applovin', 'com.adcolony'];2
+com.dreamhack.app;['com.google.android.gms', 'com.google.firebase'];2
+com.e.juantraductoro;['com.onesignal', 'com.applovin'];2
+com.fashiondays.android;['com.google.firebase', 'com.appsflyer'];2
+com.fintonic;['com.leanplum', 'com.appsflyer'];2
+com.fiverr.fiverr;['com.appsflyer', 'com.google.firebase'];2
+com.frasesdivertidas.memesconfrases;['com.google.android.gms', 'com.onesignal'];2
+com.game.friends.android;['com.google.firebase', 'com.appsflyer'];2
+com.gasall;['com.appsflyer', 'com.google.android.gms'];2
+com.gigarunner.zee2;['com.google.android.gms', 'com.google.firebase'];2
+com.global.foodpanda.android;['com.qualtrics', 'com.google.firebase'];2
+com.golfaink03.wallpaper03.AlejoIgoa;['com.startapp', 'com.google.android.gms'];2
+com.gotomeeting;['com.mixpanel.android', 'com.appsflyer'];2
+com.greetingsisland.sam;['com.onesignal', 'com.appsflyer'];2
+com.idamob.tinkoff.android;['com.my.tracker', 'com.appsflyer'];2
+com.ikeyboard.theme.neon.love;['com.applovin', 'com.chartboost'];2
+com.inglesdivino.videolyrics;['com.applovin', 'com.google.android.gms'];2
+com.ioskeyboard.softedge;['com.applovin', 'com.google.android.gms'];2
+com.iphonedroid.expansion;['com.google.firebase', 'com.comscore'];2
+com.jazz.jazzworld;['com.google.firebase', 'com.mixpanel.android'];2
+com.jb.gokeyboard.theme.twchangecolorofkeypad;['com.google.android.gms', 'com.google.firebase'];2
+com.joytunes.simplypiano;['com.google.firebase', 'com.google.android.gms'];2
+com.jrgapps.animewallpapers;['com.revenuecat.purchases', 'com.google.firebase'];2
+com.kydemy.mobile;['com.onesignal', 'io.sentry'];2
+com.lebara.milebara;['com.google.firebase', 'com.salesforce.marketingcloud'];2
+com.leolegaltechapps.translate;['com.revenuecat.purchases', 'com.onesignal'];2
+com.logan19gp.lottogen;['com.adcolony', 'com.google.android.gms'];2
+com.martianmode.applock;['com.google.firebase', 'com.revenuecat.purchases'];2
+com.martinsdevguys.topmessenger;['com.google.android.gms', 'com.google.firebase'];2
+com.mediapro.entertainment.freeringtone;['com.vungle', 'com.google.android.gms'];2
+com.meet.uspro;['com.applovin', 'com.adcolony'];2
+com.melo.gtm.truthordare.dirty.icebreaker.drinking.games.for.adults;['com.google.firebase', 'com.revenuecat.purchases'];2
+com.music.slideshow.videoeditor.videomaker;['com.google.android.gms', 'com.google.firebase'];2
+com.musik.gratis.abb;['com.onesignal', 'com.google.android.gms'];2
+com.musulmankarima.dating;['com.google.firebase', 'com.google.android.gms'];2
+com.nick.memasik;['com.google.android.gms', 'com.amplitude'];2
+com.olxmena.horizontal;['com.google.firebase', 'com.moengage'];2
+com.opngo.live;['com.google.firebase', 'com.leanplum'];2
+com.padelmanager.padelmanager;['com.google.android.gms', 'com.google.firebase'];2
+com.photo.vault.photos.photovault.photo.album.photoalbum;['com.google.android.gms', 'com.google.firebase'];2
+com.picolo.android;['com.revenuecat.purchases', 'com.appsflyer'];2
+com.piproductions.supersus.guide.amongus.Impostor;['io.sentry', 'com.google.android.gms'];2
+com.plantiary;['com.revenuecat.purchases', 'com.kochava.tracker'];2
+com.popularapp.sevenmins;['com.google.firebase', 'com.google.android.gms'];2
+com.prank.sneaky;['com.ironsource', 'com.ironsource.sdk'];2
+com.preving.tps;['com.google.android.gms', 'com.google.firebase'];2
+com.radar.detector.speed.camera.hud.speedometer;['com.google.firebase', 'com.google.android.gms'];2
+com.rasatop.cuponerapp;['com.appsflyer', 'com.google.firebase'];2
+com.redpiso.app;['com.google.android.gms', 'com.google.firebase'];2
+com.sagales.appcorporativa;['com.google.android.gms', 'com.google.firebase'];2
+com.scannerapp.pdfscanner.documentscaner.docscannerappforandroid;['com.google.android.gms', 'com.google.firebase'];2
+com.signnow.android;['com.google.firebase', 'com.google.android.gms'];2
+com.sinyee.babybus.dailysafety;['com.google.android.gms', 'com.google.firebase'];2
+com.smartartstudios.splinter.interactive.watchface;['com.onesignal', 'com.google.android.gms'];2
+com.smarttools.compasspro;['com.applovin', 'com.google.android.gms'];2
+com.smarttv.samsungtv.remote;['com.ironsource', 'com.ironsource.sdk'];2
+com.Sourcehub.videocall;['com.startapp', 'com.google.android.gms'];2
+com.stepbet.app;['com.google.firebase', 'com.appsflyer'];2
+com.superpedestrian.link;['com.appsflyer', 'com.google.firebase'];2
+com.tb.mobiclean;['com.google.firebase', 'com.onesignal'];2
+com.telosudibyo.furnituremodern;['com.startapp', 'com.mopub'];2
+com.tencent.wesing;['com.appsflyer', 'com.google.android.gms'];2
+com.tiktokvideodownloader.savetiktokvideo212;['com.startapp', 'com.onesignal'];2
+com.tinybyteapps.robyte;['com.google.android.gms', 'com.google.firebase'];2
+com.tlive.madcat;['com.google.firebase', 'com.appsflyer'];2
+com.tlnove.tureli;['com.startapp', 'com.onesignal'];2
+com.tochkiinteresacadence;['com.google.firebase', 'com.google.android.gms'];2
+com.tpx.top80bestringtones.newringtones;['com.ironsource', 'com.ironsource.sdk'];2
+com.tronlinkpro.wallet;['com.google.firebase', 'com.tencent.bugly'];2
+com.trustedapp.pdfreaderpdfviewer;['com.applovin', 'com.google.firebase'];2
+com.usakha.genshinstickers;['com.onesignal', 'com.google.android.gms'];2
+com.vdprime.chromakey;['com.ironsource', 'com.ironsource.sdk'];2
+com.vitesia.soib;['com.google.android.gms', 'com.google.firebase'];2
+com.volio.layout.photocollage.collagemaker;['com.google.android.gms', 'com.google.firebase'];2
+com.vyroai.photoenhancer;['com.applovin', 'com.ironsource'];2
+com.wallpaperhd.pikapikawallpaper;['com.ironsource', 'com.ironsource.sdk'];2
+com.wastickerapps.stickers;['com.onesignal', 'com.google.android.gms'];2
+com.wavemining.emoji.elite;['com.applovin', 'com.google.android.gms'];2
+com.xm.webapp;['io.sentry', 'com.appsflyer'];2
+com.xsdev.ppt.viewer.reader.powerpointpresentation;['com.google.android.gms', 'com.google.firebase'];2
+discover.color.clothes;['com.onesignal', 'com.google.android.gms'];2
+es.doctoralia;['com.bugsnag', 'com.google.firebase'];2
+es.mahou.rentabilibar;['com.salesforce.marketingcloud', 'com.appsflyer'];2
+es.maldita.app;['com.google.firebase', 'com.google.android.gms'];2
+es.wedothebest.loop;['com.onesignal', 'com.microsoft.appcenter'];2
+free.movies.tv.shows.films.series.v2;['com.google.android.gms', 'com.google.firebase'];2
+fusion.developers.shirtdesign;['com.startapp', 'com.google.android.gms'];2
+hippeis.com.photochecker;['com.google.android.gms', 'com.google.firebase'];2
+in.mohalla.sharechat;['com.appsflyer', 'com.google.firebase'];2
+ir.ilmili.telegraph;['com.adcolony', 'com.applovin'];2
+it.rcs.corrierede;['com.bugsnag', 'com.appsflyer'];2
+it.webxperience;['com.google.android.gms', 'com.google.firebase'];2
+kr.jungrammer.anonymous;['com.google.firebase', 'com.google.android.gms'];2
+lineaVerde.App;['com.google.android.gms', 'com.google.firebase'];2
+littleappas.name.tattoos;['io.sentry', 'com.google.android.gms'];2
+me.vampr.android;['com.google.firebase', 'com.google.android.gms'];2
+meetany.randomlivecall.videocall.livechat.live.call;['com.applovin', 'com.google.android.gms'];2
+mobi.charmer.fotocollage;['com.google.android.gms', 'com.google.firebase'];2
+mobi.societegenerale.mobile.lappli;['com.batch.android', 'com.google.firebase'];2
+pdf.converter.imagetopdf.jpgtopdf.createpdf;['com.google.firebase', 'com.google.android.gms'];2
+pl.znanylekarz;['com.bugsnag', 'com.google.firebase'];2
+reverse.video.effect.app;['com.applovin', 'com.my.tracker'];2
+ro.emag.android;['com.google.firebase', 'com.appsflyer'];2
+ru.otkritkiok.pozdravleniya;['com.google.android.gms', 'com.google.firebase'];2
+screen.mirroring.screen.mirroring;['com.ironsource', 'com.ironsource.sdk'];2
+sfcapital.publictoiletinsouthaustralia;['com.bugsnag', 'com.google.firebase'];2
+siren.head.mods.edition;['com.startapp', 'com.applovin'];2
+uk.co.motork.drivek.it;['com.appsflyer', 'com.onesignal'];2
+urmytype.app;['com.google.firebase', 'io.sentry'];2
+us.mitene;['com.newrelic.agent.android', 'com.appsflyer'];2
+vivino.web.app;['com.adjust.sdk', 'com.mixpanel.android'];2
+amonguslock.amonguslockscreen.amonglock;['com.applovin'];1
+amuseworks.thermometer;['com.google.android.gms'];1
+animalringtones.birdcallssoundsandringtones.animalsoundsandringtones;['com.google.firebase'];1
+app.bravostudio.A01G0PH1M9BA7ZGS835P1ASA1CT;['com.amplitude'];1
+app.bubu;['io.sentry'];1
+app.com.neinver.simply;['io.sentry'];1
+app.geoloc;['com.onesignal'];1
+app.Influxy.app;['com.google.android.gms'];1
+app.oktransit.bilbao;['com.google.android.gms'];1
+app.visory.security;['com.appsflyer'];1
+audioplayer.free.music.player;['com.google.android.gms'];1
+block.puzzle.sudoku.free.game.classic.offline;['com.appsflyer'];1
+burger.gutscheine.deals.bgk;['com.onesignal'];1
+buttocksworkout.hipsworkouts.forwomen.legworkout;['com.google.android.gms'];1
+ch.nzz.mobile;['com.google.firebase'];1
+chatear.ybuscaraalguien;['com.startapp'];1
+co.quanyong.pinkbird;['com.google.firebase'];1
+co.refsix;['com.mixpanel.android'];1
+coches.net;['com.comscore'];1
+cofs.haeven.photo.frame;['com.google.android.gms'];1
+cointelegraph.com;['com.appsflyer'];1
+com.aamirki.mappium;['com.google.android.gms'];1
+com.accurate.channel.forecast.live.weather;['com.applovin'];1
+com.agus.espa.calendario;['com.google.android.gms'];1
+com.alboran.corazon;['com.startapp'];1
+com.AndroidA.MediaConverter;['com.google.android.gms'];1
+com.andromo.dev743350.app911966;['io.sentry'];1
+com.ape.webapp.fingerpaint;['com.google.android.gms'];1
+com.appsmotor.facechecker;['com.startapp'];1
+com.appstylelife.creadordeafiches;['com.google.android.gms'];1
+com.apptastico.manualdeprimerosauxilios;['com.google.firebase'];1
+com.appxstudio.blenderdoubleexposure;['com.google.android.gms'];1
+com.apstech.howolddoyoulooklike.app;['com.microsoft.appcenter'];1
+com.atlasdata.tafesire.alahelam;['com.onesignal'];1
+com.audials;['com.google.firebase'];1
+com.b2binacatalog.hersteragarden;['com.microsoft.appcenter'];1
+com.baiwang.fotocollage;['com.applovin'];1
+com.baiwang.squareblend;['com.google.android.gms'];1
+com.bancamarch.bancamovil;['com.google.android.gms'];1
+com.barisefe.spainnewspapers;['com.google.android.gms'];1
+com.bbva.nxt;['com.salesforce.marketingcloud'];1
+com.bemyeyes.bemyeyes;['com.mixpanel.android'];1
+com.bestonlinenews.newsspain;['com.revenuecat.purchases'];1
+com.bestsecret.main;['com.salesforce.marketingcloud'];1
+com.bet365Wrapper.Bet365;['com.appsflyer'];1
+com.binance.custody;['io.sentry'];1
+com.binh.saphira.anime;['com.google.firebase'];1
+com.birdinox.sharpenvideo;['com.google.android.gms'];1
+com.bitaksi.musteri;['com.newrelic.agent.android'];1
+com.bitso.wallet;['com.google.firebase'];1
+com.bizapp.photoeditorcollage;['com.google.android.gms'];1
+com.blackboard.android.bbstudent;['com.newrelic.agent.android'];1
+com.bluefishapp.videotoaudio;['com.google.android.gms'];1
+com.boedec.hoel.speaker.cleaner.remove.water;['com.google.firebase'];1
+com.brunoprankcall.fakecall.fakecallerid.encantobrunoprank;['com.google.android.gms'];1
+com.bskyb.skynews.android;['com.google.firebase'];1
+com.business.postermaker;['com.onesignal'];1
+com.calendar.schedule.event;['com.google.android.gms'];1
+com.call.flash.theme.emoji.wallpaper.lock.screen.security.smooth.efficiency.color.phone.launcher;['com.applovin'];1
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner;['com.google.firebase'];1
+com.canadakarima.dating;['com.google.firebase'];1
+com.cantojilgueroreclamosonidoseducar;['io.sentry'];1
+com.caresca.pasteleriayreposteria;['com.google.android.gms'];1
+com.cettire.storeapp;['com.newrelic.agent.android'];1
+com.chanel.weather.forecast.accu;['com.google.firebase'];1
+com.changdu.spainreader;['com.applovin'];1
+com.chic.torch;['com.google.android.gms'];1
+com.cint.opinionapp;['com.microsoft.appcenter'];1
+com.clanmo.europcar;['com.salesforce.marketingcloud'];1
+com.classical.pesone;['com.startapp'];1
+com.cliomuseapp.cliomuseapp;['com.bugsnag'];1
+com.cocoa.parentalwa;['com.google.firebase'];1
+com.coconutica.acapellaeditor;['com.google.android.gms'];1
+com.codeedifice.splitvideo;['com.google.android.gms'];1
+com.compsaonline.laciutatapp;['com.onesignal'];1
+com.connected2.ozzy.c2m;['com.adjust.sdk'];1
+com.cool.volume.sound.booster;['com.google.firebase'];1
+com.corecitizenmobile.android;['com.microsoft.appcenter'];1
+com.correctspelling.checker;['com.mopub'];1
+com.correosexpress.app;['com.google.firebase'];1
+com.Creative.Neon.Icon.Designer.App;['com.google.android.gms'];1
+com.cursossepe.cursossepe;['com.onesignal'];1
+com.cutestudio.edge.lighting.colors;['com.google.android.gms'];1
+com.cuteu.videochat;['com.adjust.sdk'];1
+com.dailybits.foodjournal;['com.microsoft.appcenter'];1
+com.dataviz.docstogo;['com.applovin'];1
+com.diariodearousa.android;['com.onesignal'];1
+com.digitalplumecompany.boostyourteam;['com.applovin'];1
+com.digiwards.app;['com.google.firebase'];1
+com.download.hdvideos.videodownloader;['com.google.android.gms'];1
+com.draweasy5.dbzdbs5;['com.google.android.gms'];1
+com.draweasy5.peppo5;['com.google.android.gms'];1
+com.dressup.avatar.yoyo.doll;['com.onesignal'];1
+com.droidfoundry.calendar;['com.google.android.gms'];1
+com.duocards.app;['com.appsflyer'];1
+com.edgelighting.colors.borderlight.magicledlite;['com.google.android.gms'];1
+com.Endoscope.scope;['com.applovin'];1
+com.estmob.android.sendanywhere;['com.onesignal'];1
+com.eston.bikinibottoms;['com.startapp'];1
+com.eugibo.asmrtriggers;['com.google.android.gms'];1
+com.euronews.express;['com.google.firebase'];1
+com.facechangervideo;['com.google.android.gms'];1
+com.facemoji.lite;['com.appsflyer'];1
+com.familylocator.familytracker.gps.locationtracker.forandroid;['com.google.firebase'];1
+com.faranisa.leomessipsgwall;['com.startapp'];1
+com.farmavazquezjqnfvz.appfidelizacion;['com.onesignal'];1
+com.fashion.boys.photo.editor.new;['com.google.android.gms'];1
+com.fbapps.random.video.chat;['com.startapp'];1
+com.fesalyteranysa.canales.tdt.espana.tv;['com.mopub'];1
+com.flamingo.animator;['com.google.android.gms'];1
+com.forfamesmash;['com.google.firebase'];1
+com.freephotoframes.familyphotoframes;['com.google.android.gms'];1
+com.fulltip;['com.appsflyer'];1
+com.funeasylearn.english;['com.onesignal'];1
+com.funeasylearn.romanian;['com.onesignal'];1
+com.furniture.mods.minecraft.mcpe;['com.google.android.gms'];1
+com.gaiamtv;['com.newrelic.agent.android'];1
+com.gedsportsmobile;['com.onesignal'];1
+com.Generali.AppMaster;['com.salesforce.marketingcloud'];1
+com.ginortcar.recetas.comida.casera;['com.google.android.gms'];1
+com.glow.android.baby;['com.appsflyer'];1
+com.gls.preciodelaluzhoy;['com.revenuecat.purchases'];1
+com.gonliapps.learnspanish;['com.google.firebase'];1
+com.gpsmapcamera.geotagginglocationonphoto;['com.onesignal'];1
+com.graphite.graphitecomics;['com.amplitude'];1
+com.gruiz.farmaguardia;['com.google.android.gms'];1
+com.han.cadena;['com.onesignal'];1
+com.happyconz.blackbox;['com.google.firebase'];1
+com.healint.migraineapp;['com.google.firebase'];1
+com.heartfull.forms;['com.google.firebase'];1
+com.highsecure.familyphotoframe;['com.google.android.gms'];1
+com.hootsuite.droid.full;['com.google.firebase'];1
+com.huami.watch.hmwatchmanager;['com.google.firebase'];1
+com.hungrybolo.remotemouseandroid;['com.revenuecat.purchases'];1
+com.ibmapp;['com.onesignal'];1
+com.imagen.catolica;['com.google.firebase'];1
+com.imo.android.imoim;['com.appsflyer'];1
+com.indesign;['com.google.firebase'];1
+com.inditex.oysho;['com.google.firebase'];1
+com.infovehiculo.nicolapps.infovehiculo;['com.google.android.gms'];1
+com.inglesdivino.vectorassetcreator;['com.google.android.gms'];1
+com.innovationmobileapps.bodytemperature;['com.onesignal'];1
+com.instaonline;['com.revenuecat.purchases'];1
+com.interactvty.interactvtymobile.interactvty.fundacion;['com.revenuecat.purchases'];1
+com.internet.speedtest.check.wifi.meter;['com.appodeal.ads'];1
+com.invitation.maker.birthday.card;['com.google.android.gms'];1
+com.iphoneringtones.roars;['com.startapp'];1
+com.itworks.android.boom;['com.google.firebase'];1
+com.izicomics.app;['com.google.android.gms'];1
+com.jazarimusic.voloco;['com.google.firebase'];1
+com.jit.student;['com.appsflyer'];1
+com.jobrapp.jobr;['com.salesforce.marketingcloud'];1
+com.jrtstudio.AnotherMusicPlayer;['com.google.android.gms'];1
+com.kangproject.GuideYasaPet;['io.sentry'];1
+com.karima.dating;['com.google.firebase'];1
+com.kawaii.cute.wallpaper.kawaii.hdwallpaper;['io.sentry'];1
+com.kenwood.world;['com.mixpanel.android'];1
+com.kermed.thermometer;['com.google.android.gms'];1
+com.kinky.fetlifestyle;['com.appsflyer'];1
+com.klikin.lasantapizza;['com.google.firebase'];1
+com.klygo.app;['com.appsflyer'];1
+com.kongri.wastat;['com.appsflyer'];1
+com.kriam.secret.diary;['com.google.android.gms'];1
+com.launcher.ios11.iphonex;['com.applovin'];1
+com.launcher.launcher2022;['com.applovin'];1
+com.leermensajes.leerconversacioness;['com.startapp'];1
+com.legitapp.client;['com.onesignal'];1
+com.lelic.speedcam;['com.google.android.gms'];1
+com.lezhin.comics;['com.google.firebase'];1
+com.lgremote.view;['com.google.android.gms'];1
+com.lilidian.soundpop;['com.startapp'];1
+com.limatech.dayschallenge.dayschallenge;['com.applovin'];1
+com.live.earth.map.gps.navigation.directions.streetview.speedometer.satellite.webcam;['com.google.android.gms'];1
+com.log.whatshistory;['com.google.firebase'];1
+com.lovefeed.dating;['com.tapjoy'];1
+com.luzapplications.alessio.topwallpapers;['com.google.android.gms'];1
+com.lyrebirdstudio.collage;['com.google.android.gms'];1
+com.makeup.beauty.face.facebeauty.camera;['com.onesignal'];1
+com.mangareader.onlineapp;['com.onesignal'];1
+com.martomdev.pillsontime;['com.google.android.gms'];1
+com.mercawhat.mercawhat;['com.onesignal'];1
+com.miband5.face.watches.download.face.changer.miband.watch;['com.applovin'];1
+com.mmmobileapps.topjobs;['com.google.firebase'];1
+com.mobail.selwoaventura;['com.google.android.gms'];1
+com.mobail.selwomarina;['com.google.android.gms'];1
+com.mobills.fiftytwoweeks;['com.applovin'];1
+com.modspestudio.furniture;['com.applovin'];1
+com.modspestudio.shader;['com.applovin'];1
+com.motordata.obd;['com.google.android.gms'];1
+com.musicdavay.com;['com.onesignal'];1
+com.mysalesforce.mycommunity.C00D1t000000xOigEAE.A0OT1t0000004C99GAE;['com.microsoft.appcenter'];1
+com.mytello.dialup;['com.google.firebase'];1
+com.mytowntonight.aviamap;['com.google.android.gms'];1
+com.name.photo.birthday.cake.quotes.frame.editor;['com.google.android.gms'];1
+com.nbz.phonekeeper;['com.adjust.sdk'];1
+com.nestsport.sim;['com.applovin'];1
+com.newdevapps.braidhairstyles;['com.startapp'];1
+com.nextgen.eye.color.changer.lense.photoeditor;['com.google.android.gms'];1
+com.nn.clientapp;['com.microsoft.appcenter'];1
+com.nonoapps.aumentarmasamuscular;['com.google.android.gms'];1
+com.offertadelgiorno.offertadelgiorno;['com.revenuecat.purchases'];1
+com.opennemas.nosdiario;['com.onesignal'];1
+com.orthobullets.Bullets;['com.microsoft.appcenter'];1
+com.outfit7.talkingnewsfree;['com.bugsnag'];1
+com.pakistani.girlslivechat;['com.startapp'];1
+com.parallels.client;['com.microsoft.appcenter'];1
+com.paseaperros.app;['com.onesignal'];1
+com.pastelwallpaper.colorscutewallpapers.kawaianime.girlycute.offlinebackgrounds.aesthetic;['io.sentry'];1
+com.patook.patook;['com.google.firebase'];1
+com.philips.sleepmapper.root;['com.apptentive'];1
+com.phongphan.miracast;['com.google.android.gms'];1
+com.pixelkraft.edgelighting;['com.google.android.gms'];1
+com.plantid.picturethis.plantin.plantsnap.natureid;['com.appsflyer'];1
+com.playground.androidapp;['com.adcolony'];1
+com.playmebit.android.stwidoctus.idoctussemi;['com.amplitude'];1
+com.playoffinformatica.fmm;['com.onesignal'];1
+com.plentybits.globalpiso;['com.google.firebase'];1
+com.popicorns.homary;['io.sentry'];1
+com.portraitai.portraitai;['com.google.firebase'];1
+com.prinext.image.blur;['com.applovin'];1
+com.printful.app;['io.sentry'];1
+com.profilelog.android;['com.google.firebase'];1
+com.programmingtunes.newsukraine;['com.applovin'];1
+com.psycatgames.nhiegame;['com.revenuecat.purchases'];1
+com.quvideo.xiaoying;['com.google.firebase'];1
+com.rabbitrally.nav2droid;['com.microsoft.appcenter'];1
+com.raed.drawing;['com.google.android.gms'];1
+com.raisingapps.transparentlauncher.screenlivewallpaper;['com.google.firebase'];1
+com.ralarosoft.futboltele;['com.google.android.gms'];1
+com.random.chat.app;['com.google.android.gms'];1
+com.rcplatform.livechat;['com.appsflyer'];1
+com.readdle.spark;['com.amplitude'];1
+com.real.RealPlayerMobile;['com.appsflyer'];1
+com.realdream.kidspolice;['com.onesignal'];1
+com.redlucky.lockscreen.pattern;['com.google.android.gms'];1
+com.renaldiabetic.diet;['com.onesignal'];1
+com.repotools.whatplay;['com.onesignal'];1
+com.risilis.filtrodechoro;['com.google.android.gms'];1
+com.rs.GNote4Ringtones;['com.google.android.gms'];1
+com.rt.arabstable;['com.onesignal'];1
+com.rubenmayayo.reddit;['com.google.android.gms'];1
+com.rubytribe.skinvision.ac;['com.leanplum'];1
+com.rudderfishapps.seen;['com.revenuecat.purchases'];1
+com.samremote.view;['com.google.android.gms'];1
+com.samsung.emojikeyboard.themes;['com.applovin'];1
+com.screentime.rc;['com.appsflyer'];1
+com.silbonshop.app;['com.microsoft.appcenter'];1
+com.Simpatico.My.Photo.Background.Keyboard;['com.google.android.gms'];1
+com.sjdapp.soccerjerseydesigner;['com.applovin'];1
+com.skinsbourg.parkour;['com.applovin'];1
+com.skylb.hola.app;['com.kochava.base'];1
+com.smartbox.smartboxbeneficiary;['com.google.firebase'];1
+com.smartworld.enhancephotoquality;['com.google.firebase'];1
+com.smule.autorap;['com.adjust.sdk'];1
+com.solodevs.fortnitewallpapermaker;['com.google.android.gms'];1
+com.sololearn;['com.appsflyer'];1
+com.soniremote.view;['com.google.android.gms'];1
+com.stereo.app;['com.appsflyer'];1
+com.Stickers;['com.onesignal'];1
+com.stormgain.mobile;['com.tealium'];1
+com.streamlabs;['com.google.firebase'];1
+com.stremio.one;['com.microsoft.appcenter'];1
+com.strlabs.appdietas;['com.google.android.gms'];1
+com.studiosol.afinadorlite;['com.vungle'];1
+com.surfline.android;['com.newrelic.agent.android'];1
+com.sushishop.fr;['com.batch.android'];1
+com.tasnim.colorsplash;['com.google.firebase'];1
+com.techapps.livevideocall;['com.applovin'];1
+com.techpro.cutringtone;['com.adjust.sdk'];1
+com.tempo.video.edit;['com.google.firebase'];1
+com.tier.tramuntana;['com.onesignal'];1
+com.tiim.tradinggame;['com.appsflyer'];1
+com.tocaboca.tocahairsalon4;['com.adjust.sdk'];1
+com.tocapp.crownfronton;['com.google.android.gms'];1
+com.todoist;['io.sentry'];1
+com.tramite;['com.revenuecat.purchases'];1
+com.trivago;['com.salesforce.marketingcloud'];1
+com.tulotero;['com.appsflyer'];1
+com.tuneme.tuneme;['com.google.android.gms'];1
+com.turner.tooncup;['com.adobe.marketing.mobile'];1
+com.twitter.android;['com.google.firebase'];1
+com.uala.appandroid;['com.onesignal'];1
+com.ume.shortcut;['com.appsflyer'];1
+com.unimeal.android;['com.appsflyer'];1
+com.usablenet.vueling.avios;['com.salesforce.marketingcloud'];1
+com.vaultmicro.camerafi.live;['com.applovin'];1
+com.vecturagames.android.app.gpxviewer;['com.google.firebase'];1
+com.vertaler.dees;['com.google.android.gms'];1
+com.vialsoft.radares;['com.appsflyer'];1
+com.video.downloader.no.watermark.tiktok;['com.google.firebase'];1
+com.vilanova.app;['com.microsoft.appcenter'];1
+com.vivaz.vivazsalud;['com.tealium'];1
+com.vocento.autocasion;['com.comscore'];1
+com.vocento.diariomontanes;['com.newrelic.agent.android'];1
+com.vocento.idealgranada;['com.newrelic.agent.android'];1
+com.vorwerk.cookidoo;['com.google.firebase'];1
+com.wapoapp;['com.google.firebase'];1
+com.watch.richface.shield;['com.google.android.gms'];1
+com.wemeetsafe.app15430;['com.google.firebase'];1
+com.wgou.cleaner;['com.onesignal'];1
+com.wifihelp.networktest.security;['com.google.firebase'];1
+com.wildec.meet24;['com.tapjoy'];1
+com.wildnetworks.xtudr;['com.revenuecat.purchases'];1
+com.womanlog;['com.google.android.gms'];1
+com.worldradios.roumanie;['com.applovin'];1
+com.xenonstudio.serversformcpe;['com.google.android.gms'];1
+com.y29tv.live.tv.spain;['com.ironsource'];1
+com.yokee.piano.keyboard;['com.appsflyer'];1
+com.zahidcataltas.mgrsharita;['com.google.android.gms'];1
+com.zaku.live.chat;['com.appsflyer'];1
+com.zinio.mobile.android.reader;['com.google.firebase'];1
+com.zoemob.gpstracking;['com.applovin'];1
+crypto.free.bitcoin.cloud.mining.cryptocurrency;['com.applovin'];1
+cz.master.lois;['com.appsflyer'];1
+de.autodoc.club;['com.appsflyer'];1
+dev.kraimoz.mangex;['com.google.firebase'];1
+digital.raisin;['com.onesignal'];1
+emmo.diary.app;['com.google.android.gms'];1
+es.canarias7.android.rss;['com.newrelic.agent.android'];1
+es.dae.cityxerpa;['com.salesforce.marketingcloud'];1
+es.ecoveritas.veritas;['com.salesforce.marketingcloud'];1
+es.grancanaria.eventos;['com.google.android.gms'];1
+es.mmip.prisacom.as;['com.comscore'];1
+es.orangebank.app;['com.salesforce.marketingcloud'];1
+es.pibank.customers;['com.salesforce.marketingcloud'];1
+es.vivus.app.react;['com.microsoft.appcenter'];1
+eus.euskotren.app;['com.google.firebase'];1
+films.nixac.fanfightclub;['com.google.firebase'];1
+fourbottles.bsg.workinghours4b;['com.google.android.gms'];1
+fr.doctolib.www;['io.sentry'];1
+fr.profilweb.gifi.es;['com.batch.android'];1
+fr.tramb.park4night;['com.google.firebase'];1
+hai.lior.ukaleletunerfree;['com.google.android.gms'];1
+hd.video.downloader.allvideodownloader.app;['com.google.android.gms'];1
+hdvideoplayer.hdvideodownloader.allmediaplayerhd;['com.onesignal'];1
+helectronsoft.com.live.wallpaper.pixel4d;['com.google.android.gms'];1
+ie.flipdish.fd18489;['io.sentry'];1
+ie.flipdish.fd19781;['io.sentry'];1
+in.gopalakrishnareddy.torrent;['com.google.firebase'];1
+in.sweatco.app;['com.kochava.base'];1
+innotest.testguardiacivil2018;['com.onesignal'];1
+instasaver.instagram.video.downloader.photo;['com.applovin'];1
+ioffer.quikr.offersanddeals;['com.google.android.gms'];1
+it.ale32thebest.simserialnumber;['com.google.android.gms'];1
+its.myapps.haircolorchanger;['com.mopub'];1
+littleappas.garden.designs;['io.sentry'];1
+littleappas.gelnaildesigns;['io.sentry'];1
+littleappas.tvshelves;['io.sentry'];1
+liveearthmap.livesatelliteview.mylocation.streetviewmap;['com.google.android.gms'];1
+location.changer.fake.gps.spoof.emulator;['com.google.firebase'];1
+ml.colorize.app;['com.google.android.gms'];1
+music.musicplayer.mp3player.musicapps.musicdownloader;['com.google.android.gms'];1
+myhome.kdomo.com;['com.google.android.gms'];1
+nessundorma.com.nessun;['com.google.firebase'];1
+net.jarcode.mitja;['com.google.firebase'];1
+net.one97.paytm;['com.google.firebase'];1
+net.supertreat.solitaire;['com.microsoft.appcenter'];1
+nl.moboa.myclay;['com.google.firebase'];1
+nl.randstad.planning;['com.microsoft.appcenter'];1
+nocrop.photoeditor.squarepic;['com.vungle'];1
+oops.ledscroller;['com.google.android.gms'];1
+org.aleteia.presse;['com.onesignal'];1
+org.cathalac;['com.onesignal'];1
+org.lds.bom;['com.adobe.marketing.mobile'];1
+org.mistergroup.shouldianswer;['com.google.android.gms'];1
+org.telegram.plus;['com.microsoft.appcenter'];1
+phonecooler.cpucooler.coolermaster.batterycooler;['com.applovin'];1
+photo.smile.red.eyes.changer.color;['com.google.android.gms'];1
+prestige.labelmaker.labelcreator;['com.startapp'];1
+puzzle.blockpuzzle.cube.relax;['com.appsflyer'];1
+pyaterochka.app;['com.google.firebase'];1
+qrcodereader.barcodescanner.scan.qrscanner;['com.google.firebase'];1
+recover.deleted.data.mobile.data.recovery.app.diskdigger;['com.google.firebase'];1
+ringtone.mp3.song.download;['com.google.android.gms'];1
+ru.apteka;['com.appsflyer'];1
+se.svt.svti.android.nyhetsapp;['com.google.firebase'];1
+seat.code.giravolta.inurbastockholm;['com.google.firebase'];1
+smart.tv.wifi.remote.control.samcontrol;['com.applovin'];1
+smartgr.toilet.design;['com.google.android.gms'];1
+splits.splitstraining.dothesplits.splitsin30days;['com.google.android.gms'];1
+squarepic.photogrid.squaregrid;['com.vungle'];1
+stickers.network;['com.google.firebase'];1
+tv.fubo.mobile;['com.appsflyer'];1
+tv.uscreen.torosenespana;['io.sentry'];1
+twittervideodownloader.twitter.videoindir.savegif.twdown;['com.google.firebase'];1
+uk.co.teambobk.f1calendarfree;['com.google.android.gms'];1
+ultra.wallpaper.themes.pro;['com.applovin'];1
+us.acremote.tools4tv;['com.startapp'];1
+us.mirrorlink.mirrorlinkandroid.carconnector.screenmirroring;['com.onesignal'];1
+us.nonda.zus;['com.google.firebase'];1
+video.crop.audio;['com.google.android.gms'];1
+watch.richface.androidwear.digitalvision;['com.google.android.gms'];1
+water.eject.speaker.cleaner;['com.onesignal'];1
+yogaworkout.dailyyoga.go.weightloss.loseweight;['com.google.android.gms'];1
+zepeto.walkthrough.zepetotricks;['com.startapp'];1
+;;1,651090343
