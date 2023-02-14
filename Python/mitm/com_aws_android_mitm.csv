@@ -1,4 +1,681 @@
-l_addr;l_port;r_address;r_addr_ip;r_port
-192.168.0.112;42150;api.likee.video;164.90.105.128;80
-192.168.0.112;42150;api.likee.video;164.90.105.128;80
-192.168.0.112;42150;api.likee.video;164.90.105.128;80
+content_type;l_addr;l_port;r_address;r_addr_ip;r_port
+;192.168.0.112;43026;api.apptentive.com;3.213.142.250;443
+;192.168.0.112;42926;aax.amazon-adsystem.com;18.154.54.32;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;34.199.226.45;443
+;192.168.0.112;42918;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;42926;aax.amazon-adsystem.com;18.154.54.32;443
+;192.168.0.112;42918;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;42938;mediation.adnxs.com;37.252.173.214;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43066;csi.gstatic.com;142.250.194.67;443
+;192.168.0.112;43068;and-maps.pulse.weatherbug.net;34.233.181.96;443
+;192.168.0.112;43070;and-clog2.pulse.weatherbug.net;52.202.82.155;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43068;and-maps.pulse.weatherbug.net;34.233.181.96;443
+;192.168.0.112;43074;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43076;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43068;and-maps.pulse.weatherbug.net;34.233.181.96;443
+;192.168.0.112;43088;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43082;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43080;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43078;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43086;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43084;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43074;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43072;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43074;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43072;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43074;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43090;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43064;clients4.google.com;142.250.184.14;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.201;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.201;443
+;192.168.0.112;43094;and-clog2.pulse.weatherbug.net;52.202.82.155;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;18.205.44.233;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.142.35;443
+;192.168.0.112;42922;and-obs.pulse.weatherbug.net;52.71.110.138;443
+;192.168.0.112;43030;and-for.pulse.weatherbug.net;52.71.110.138;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;43106;api.apptentive.com;44.198.15.251;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.142.35;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;43106;api.apptentive.com;44.198.15.251;443
+;192.168.0.112;43122;mediation.adnxs.com;37.252.173.214;443
+;192.168.0.112;43112;and-obs.pulse.weatherbug.net;52.71.110.138;443
+;192.168.0.112;43116;and-obs.pulse.weatherbug.net;52.71.110.138;443
+;192.168.0.112;43110;and-em.pulse.weatherbug.net;3.227.70.219;443
+;192.168.0.112;43118;and-lx.pulse.weatherbug.net;34.236.113.79;443
+;192.168.0.112;43120;and-con.pulse.weatherbug.net;100.24.220.50;443
+;192.168.0.112;43114;and-maps.pulse.weatherbug.net;54.243.100.179;443
+;192.168.0.112;43128;and-hur.pulse.weatherbug.net;3.227.70.219;443
+;192.168.0.112;43126;and-fire.pulse.weatherbug.net;54.164.25.23;443
+;192.168.0.112;43106;api.apptentive.com;44.198.15.251;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;43124;and-alm.pulse.weatherbug.net;54.87.204.242;443
+;192.168.0.112;43134;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;42954;sb.scorecardresearch.com;108.157.98.120;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;18.205.44.233;443
+;192.168.0.112;42958;trc.taboola.com;151.101.65.44;443
+;192.168.0.112;43134;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.142.35;443
+;192.168.0.112;43134;and-maps.api.weatherbug.net;54.192.95.22;443
+;192.168.0.112;42954;sb.scorecardresearch.com;108.157.98.120;443
+;192.168.0.112;43136;and-clog2.pulse.weatherbug.net;52.202.82.155;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;43122;mediation.adnxs.com;37.252.173.214;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.142.35;443
+;192.168.0.112;42958;trc.taboola.com;151.101.65.44;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.65.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.65.44;443
+;192.168.0.112;42980;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;43010;ups.analytics.yahoo.com;3.126.56.137;443
+;192.168.0.112;42978;taboola-supply-partners.tremorhub.com;3.229.62.146;443
+;192.168.0.112;42990;wf.taboola.com;151.101.129.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.1.44;443
+;192.168.0.112;43010;ups.analytics.yahoo.com;3.126.56.137;443
+;192.168.0.112;42958;trc.taboola.com;151.101.65.44;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.203;443
+;192.168.0.112;43000;images.taboola.com;151.101.193.44;443
+;192.168.0.112;43000;images.taboola.com;151.101.193.44;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.203;443
+;192.168.0.112;42990;wf.taboola.com;151.101.129.44;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.203;443
+;192.168.0.112;43092;aax-eu.amazon-adsystem.com;67.220.228.203;443
+;192.168.0.112;43138;and-clog2.pulse.weatherbug.net;52.202.82.155;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43106;api.apptentive.com;3.213.142.250;443
+;192.168.0.112;43030;and-for.pulse.weatherbug.net;3.227.70.219;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;35.168.244.86;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;43122;mediation.adnxs.com;185.89.210.211;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;43152;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43150;and-for.pulse.weatherbug.net;3.227.70.219;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;35.168.244.86;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;43000;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43000;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;43122;mediation.adnxs.com;185.89.210.211;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;35.168.244.86;443
+;192.168.0.112;43156;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43000;images.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;43158;15.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;43038;cat.fr.eu.criteo.com;178.250.0.160;443
+;192.168.0.112;43040;impression.appsflyer.com;52.84.66.61;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43044;gum.criteo.com;178.250.0.157;443
+;192.168.0.112;43160;ssb-euw2.smartadserver.com;217.182.178.226;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42992;pips.taboola.com;151.101.129.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;43164;aax-eu.amazon-adsystem.com;54.239.33.158;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43164;aax-eu.amazon-adsystem.com;54.239.33.158;443
+;192.168.0.112;43164;aax-eu.amazon-adsystem.com;54.239.33.158;443
+;192.168.0.112;43166;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43164;aax-eu.amazon-adsystem.com;54.239.33.158;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.193.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42992;pips.taboola.com;151.101.129.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42988;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;42992;pips.taboola.com;151.101.129.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42992;pips.taboola.com;151.101.129.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42978;taboola-supply-partners.tremorhub.com;52.3.101.55;443
+;192.168.0.112;42980;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;42982;x.bidswitch.net;18.156.40.75;443
+;192.168.0.112;42990;wf.taboola.com;151.101.193.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.129.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43000;images.taboola.com;151.101.129.44;443
+;192.168.0.112;43168;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;42990;wf.taboola.com;151.101.193.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43000;images.taboola.com;151.101.129.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.1.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;42908;weatherbug.adsbynimbus.com;35.168.244.86;443
+;192.168.0.112;43108;api-eu.bidmachine.io;172.64.143.35;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43122;mediation.adnxs.com;185.89.210.211;443
+;192.168.0.112;43104;aax.amazon-adsystem.com;108.157.88.185;443
+;192.168.0.112;43174;api.apptentive.com;54.83.18.201;443
+;192.168.0.112;43176;and-ads.pulse.weatherbug.net;100.24.220.50;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43178;and-ads.pulse.weatherbug.net;100.24.220.50;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42978;taboola-supply-partners.tremorhub.com;52.3.101.55;443
+;192.168.0.112;42980;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;42982;x.bidswitch.net;18.156.40.75;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43012;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43158;15.taboola.com;151.101.65.44;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43000;images.taboola.com;151.101.129.44;443
+;192.168.0.112;42992;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;42950;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;42972;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;42974;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42954;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;42958;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43162;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;42978;taboola-supply-partners.tremorhub.com;52.3.101.55;443
+;192.168.0.112;42980;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;42982;x.bidswitch.net;18.156.40.75;443
+;192.168.0.112;43010;ups.analytics.yahoo.com;18.156.0.31;443
+;192.168.0.112;42990;wf.taboola.com;151.101.193.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43182;ups.analytics.yahoo.com;18.156.0.31;443
+;192.168.0.112;43184;x.bidswitch.net;18.156.40.75;443
+;192.168.0.112;43182;ups.analytics.yahoo.com;18.156.0.31;443
+;192.168.0.112;43196;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+;192.168.0.112;43196;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;43200;cdn.taboola.com;151.101.65.44;443
+;192.168.0.112;43202;imprammp.taboola.com;151.101.193.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43190;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43234;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;43236;taboola-supply-partners.tremorhub.com;52.206.50.209;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.61;443
+;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43242;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43202;imprammp.taboola.com;151.101.65.44;443
+;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+;192.168.0.112;43236;taboola-supply-partners.tremorhub.com;52.206.50.209;443
+;192.168.0.112;43234;match.adsrvr.org;146.112.61.110;443
+;192.168.0.112;43196;pips.taboola.com;151.101.65.44;443
+;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43254;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43274;img.like.video;202.168.102.30;80
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43282;api.likee.video;164.90.87.95;80
+No response;192.168.0.112;43282;api.likee.video;164.90.87.95;80
+No response;192.168.0.112;43282;api.likee.video;164.90.87.95;80
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43324;aax.amazon-adsystem.com;13.33.233.71;443
+No response;192.168.0.112;43322;api.apptentive.com;54.211.190.102;443
+No response;192.168.0.112;43320;and-obs.pulse.weatherbug.net;52.55.133.176;443
+No response;192.168.0.112;43330;api-eu.bidmachine.io;172.64.142.35;443
+No response;192.168.0.112;43328;weatherbug.adsbynimbus.com;34.199.226.45;443
+No response;192.168.0.112;43326;and-for.pulse.weatherbug.net;54.164.25.23;443
+No response;192.168.0.112;43324;aax.amazon-adsystem.com;13.33.233.71;443
+No response;192.168.0.112;43334;mediation.adnxs.com;37.252.173.228;443
+No response;192.168.0.112;43332;and-clog2.pulse.weatherbug.net;100.24.102.236;443
+No response;192.168.0.112;43200;cdn.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43238;sb.scorecardresearch.com;108.157.98.112;443
+No response;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43238;sb.scorecardresearch.com;108.157.98.112;443
+No response;192.168.0.112;43336;gum.criteo.com;178.250.0.157;443
+No response;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43202;imprammp.taboola.com;151.101.65.44;443
+No response;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43236;taboola-supply-partners.tremorhub.com;54.146.142.229;443
+No response;192.168.0.112;43234;match.adsrvr.org;146.112.61.110;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43182;ups.analytics.yahoo.com;18.156.0.31;443
+No response;192.168.0.112;43230;wf.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43196;pips.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43182;ups.analytics.yahoo.com;18.156.0.31;443
+No response;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.1.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43226;vidanalytics.taboola.com;151.101.193.44;443
+No response;192.168.0.112;43230;wf.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43192;images.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43200;cdn.taboola.com;151.101.129.44;443
+No response;192.168.0.112;43340;and-clog2.pulse.weatherbug.net;100.24.102.236;443
+No response;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+No response;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+No response;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+No response;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43396;api.apptentive.com;54.87.12.89;443
+True;False;;192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+True;False;;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+True;False;;192.168.0.112;43200;cdn.taboola.com;151.101.193.44;443
+True;False;;192.168.0.112;43200;cdn.taboola.com;151.101.193.44;443
+True;False;;192.168.0.112;43394;and-ads.pulse.weatherbug.net;54.85.151.247;443
+True;False;;192.168.0.112;43400;and-ads.pulse.weatherbug.net;54.85.151.247;443
+True;False;;192.168.0.112;43396;api.apptentive.com;54.87.12.89;443
+True;False;;192.168.0.112;43404;weatherbug.adsbynimbus.com;18.205.44.233;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43398;and-obs.pulse.weatherbug.net;52.5.173.140;443
+True;False;;192.168.0.112;43408;and-em.pulse.weatherbug.net;34.236.113.79;443
+True;False;;192.168.0.112;43410;and-obs.pulse.weatherbug.net;52.5.173.140;443
+True;False;;192.168.0.112;43414;and-obs.pulse.weatherbug.net;52.5.173.140;443
+True;False;;192.168.0.112;43412;and-maps.pulse.weatherbug.net;54.243.100.179;443
+True;False;;192.168.0.112;43430;mediation.adnxs.com;37.252.173.228;443
+True;False;;192.168.0.112;43426;and-for.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43424;and-for.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43428;and-for.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43418;and-aqi.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43420;and-lx.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43416;and-otdr.pulse.weatherbug.net;34.236.113.79;443
+True;False;;192.168.0.112;43422;and-con.pulse.weatherbug.net;52.5.173.140;443
+True;False;;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+True;False;;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43200;cdn.taboola.com;151.101.193.44;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43202;imprammp.taboola.com;151.101.1.44;443
+True;False;;192.168.0.112;43432;and-maps.api.weatherbug.net;54.192.95.125;443
+True;False;;192.168.0.112;43432;and-maps.api.weatherbug.net;54.192.95.125;443
+True;False;;192.168.0.112;43432;and-maps.api.weatherbug.net;54.192.95.125;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43404;weatherbug.adsbynimbus.com;18.205.44.233;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43418;and-aqi.pulse.weatherbug.net;100.24.220.50;443
+True;False;;192.168.0.112;43196;pips.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43444;ssb-euw1.smartadserver.com;89.149.192.66;443
+True;False;;192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+True;False;;192.168.0.112;43404;weatherbug.adsbynimbus.com;18.205.44.233;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43202;imprammp.taboola.com;151.101.1.44;443
+True;False;;192.168.0.112;43438;and-clog2.pulse.weatherbug.net;100.24.102.236;443
+True;False;;192.168.0.112;43442;b1t-eudc1.zemanta.com;213.227.153.223;443
+True;False;;192.168.0.112;43430;mediation.adnxs.com;37.252.173.228;443
+True;False;;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+True;False;;192.168.0.112;43440;b1-eudc1.zemanta.com;213.227.153.221;443
+True;False;;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+True;False;;192.168.0.112;43192;images.taboola.com;151.101.65.44;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43202;imprammp.taboola.com;151.101.1.44;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43240;trc-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43238;sb.scorecardresearch.com;18.154.48.42;443
+True;False;;192.168.0.112;43196;pips.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43440;b1-eudc1.zemanta.com;213.227.153.221;443
+True;False;;192.168.0.112;43442;b1t-eudc1.zemanta.com;213.227.153.223;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43244;il-trc-events.taboola.com;185.106.33.48;443
+True;False;;192.168.0.112;43196;pips.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43448;ssb-euw2.smartadserver.com;5.135.209.99;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43202;imprammp.taboola.com;151.101.1.44;443
+True;False;;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+True;False;;192.168.0.112;43188;trc.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43196;pips.taboola.com;151.101.129.44;443
+True;False;;192.168.0.112;43452;and-clog2.pulse.weatherbug.net;100.24.102.236;443
+True;False;;192.168.0.112;43226;vidanalytics.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;43426;and-for.pulse.weatherbug.net;52.6.220.77;443
+No content type;192.168.0.112;43398;and-obs.pulse.weatherbug.net;52.6.220.77;443
+application/json;192.168.0.112;43396;api.apptentive.com;44.210.232.89;443
+"application/json; charset=utf-8";192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+"application/json; charset=utf-8";192.168.0.112;43404;weatherbug.adsbynimbus.com;34.199.226.45;443
+application/x-protobuf;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+"application/json; charset=utf-8";192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+application/json;192.168.0.112;43430;mediation.adnxs.com;37.252.173.214;443
+application/x-protobuf;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+No content type;192.168.0.112;43200;cdn.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43238;sb.scorecardresearch.com;52.84.66.17;443
+text/plain;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43238;sb.scorecardresearch.com;52.84.66.17;443
+"application/json; charset=utf-8";192.168.0.112;43458;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+text/plain;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43202;imprammp.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;43204;am-vid-events.taboola.com;141.226.228.48;443
+application/x-www-form-urlencoded;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43234;match.adsrvr.org;146.112.61.110;443
+No content type;192.168.0.112;43236;taboola-supply-partners.tremorhub.com;184.73.162.215;443
+text/plain;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;43196;pips.taboola.com;151.101.65.44;443
+application/x-www-form-urlencoded;192.168.0.112;43188;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43192;images.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;43200;cdn.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;43200;cdn.taboola.com;151.101.1.44;443
+text/plain;192.168.0.112;43230;wf.taboola.com;151.101.65.44;443
+text/plain;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+text/plain;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+application/json;192.168.0.112;43396;api.apptentive.com;44.210.232.89;443
+"application/json; charset=utf-8";192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+"application/json; charset=utf-8";192.168.0.112;43404;weatherbug.adsbynimbus.com;34.199.226.45;443
+application/x-protobuf;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+application/json;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+"application/json; charset=utf-8";192.168.0.112;43402;aax.amazon-adsystem.com;108.157.88.185;443
+application/json;192.168.0.112;43430;mediation.adnxs.com;37.252.173.214;443
+application/x-protobuf;192.168.0.112;43406;api-eu.bidmachine.io;172.64.142.35;443
+No content type;192.168.0.112;43462;and-maps.pulse.weatherbug.net;54.243.100.179;443
+"application/json; charset=utf-8";192.168.0.112;43464;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+No content type;192.168.0.112;43462;and-maps.pulse.weatherbug.net;54.243.100.179;443
+No content type;192.168.0.112;43470;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43476;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43474;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43466;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43472;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43468;and-maps.api.weatherbug.net;54.192.95.105;443
+text/plain;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+application/binary;192.168.0.112;43478;clients4.google.com;142.250.184.14;443
+No content type;192.168.0.112;43466;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43468;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43470;and-maps.api.weatherbug.net;54.192.95.105;443
+No content type;192.168.0.112;43472;and-maps.api.weatherbug.net;54.192.95.105;443
+"application/json; charset=utf-8";192.168.0.112;43404;weatherbug.adsbynimbus.com;34.199.226.45;443
+application/binary;192.168.0.112;43478;clients4.google.com;142.250.184.14;443
+"application/json; charset=utf-8";192.168.0.112;43480;aax.amazon-adsystem.com;108.157.88.185;443
+application/x-protobuf;192.168.0.112;43482;api-eu.bidmachine.io;172.64.142.35;443
+application/binary;192.168.0.112;43478;clients4.google.com;142.250.184.14;443
+application/binary;192.168.0.112;43478;clients4.google.com;142.250.184.14;443
+application/binary;192.168.0.112;43484;clients4.google.com;142.250.184.14;443
+"application/json; charset=utf-8";192.168.0.112;43480;aax.amazon-adsystem.com;108.157.88.185;443
+application/x-protobuf;192.168.0.112;43482;api-eu.bidmachine.io;172.64.142.35;443
+application/binary;192.168.0.112;43478;clients4.google.com;142.250.184.14;443
+application/binary;192.168.0.112;43484;clients4.google.com;142.250.184.14;443
+application/binary;192.168.0.112;43486;clients4.google.com;142.250.184.14;443
+application/json;192.168.0.112;43488;mediation.adnxs.com;37.252.173.214;443
+application/binary;192.168.0.112;43490;clients4.google.com;142.250.184.14;443
+text/plain;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
+"application/json; charset=utf-8";192.168.0.112;43494;and-clog2.pulse.weatherbug.net;3.231.11.17;443
+"application/json; charset=utf-8";192.168.0.112;43498;api.likee.video;104.166.188.184;80
+"application/json; charset=utf-8";192.168.0.112;43498;api.likee.video;104.166.188.184;80
+"application/json; charset=utf-8";192.168.0.112;43498;api.likee.video;104.166.188.184;80
+No content type;192.168.0.112;43560;media.pushlycdn.com;18.154.22.48;443
+text/plain;192.168.0.112;43570;k.p-n.io;18.194.89.90;443
+application/vnd.chrome.ukm;192.168.0.112;43588;clients4.google.com;142.250.178.174;443

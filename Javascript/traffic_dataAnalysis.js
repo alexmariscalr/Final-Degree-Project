@@ -1413,9 +1413,9 @@ setTimeout(function () {
             lAddr +
             '","lPort": "' +
             lPort +
-            '","lAddr": "' +
+            '","rAddr": "' +
             rAddr +
-            '","lPort": "' +
+            '","rPort": "' +
             rPort +
             '","domain": "N/A","event":"intercept","status":true}'
         );
