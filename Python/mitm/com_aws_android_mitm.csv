@@ -679,3 +679,276 @@ text/plain;192.168.0.112;43218;am-wf.taboola.com;141.226.228.48;443
 No content type;192.168.0.112;43560;media.pushlycdn.com;18.154.22.48;443
 text/plain;192.168.0.112;43570;k.p-n.io;18.194.89.90;443
 application/vnd.chrome.ukm;192.168.0.112;43588;clients4.google.com;142.250.178.174;443
+No content type;192.168.0.112;48936;connectivitycheck.gstatic.com;142.250.184.3;80
+No content type;192.168.0.112;48952;resolver.msg.global.xiaomi.net;3.74.176.245;80
+No content type;192.168.0.112;48954;findapi.micloud.xiaomi.net;20.47.115.69;80
+application/x-www-form-urlencoded;192.168.0.112;48960;data.mistat.intl.xiaomi.com;212.145.41.179;80
+No content type;192.168.0.112;48970;findapi.micloud.xiaomi.net;20.47.115.69;80
+No content type;192.168.0.112;48978;findapi.micloud.xiaomi.net;20.47.115.69;80
+application/x-www-form-urlencoded;192.168.0.112;48986;data.mistat.intl.xiaomi.com;212.145.41.179;80
+application/x-www-form-urlencoded;192.168.0.112;48998;data.mistat.intl.xiaomi.com;212.145.41.179;80
+No content type;192.168.0.112;49008;192.168.0.1;192.168.0.1;80
+application/x-www-form-urlencoded;192.168.0.112;49006;us.api.micloud.xiaomi.net;8.219.65.160;80
+No content type;192.168.0.112;49008;192.168.0.1;192.168.0.1;80
+application/x-www-form-urlencoded;192.168.0.112;49066;accounts.google.com;142.250.200.77;443
+No content type;192.168.0.112;49098;accounts.google.com;142.250.200.77;443
+No content type;192.168.0.112;49102;accounts.youtube.com;142.250.200.142;443
+No content type;192.168.0.112;49100;accounts.doubleclick.net;172.217.168.174;443
+application/x-www-form-urlencoded;192.168.0.112;49066;accounts.google.com;142.250.200.77;443
+No content type;192.168.0.112;49126;clientservices.googleapis.com;142.250.200.67;443
+application/x-protobuf;192.168.0.112;49152;www.googleapis.com;216.58.209.74;443
+application/x-www-form-urlencoded;192.168.0.112;49180;data.mistat.intl.xiaomi.com;212.145.41.179;443
+application/x-www-form-urlencoded;192.168.0.112;49180;data.mistat.intl.xiaomi.com;212.145.41.179;443
+application/x-www-form-urlencoded;192.168.0.112;49208;data.mistat.intl.xiaomi.com;212.145.41.193;80
+application/x-www-form-urlencoded;192.168.0.112;49208;data.mistat.intl.xiaomi.com;212.145.41.193;80
+application/x-protobuf;192.168.0.112;49256;inbox.google.com;142.250.200.101;443
+No content type;192.168.0.112;49250;www.googleapis.com;216.58.209.74;443
+No content type;192.168.0.112;49250;www.googleapis.com;216.58.209.74;443
+No content type;192.168.0.112;49250;www.googleapis.com;216.58.209.74;443
+No content type;192.168.0.112;49250;www.googleapis.com;216.58.209.74;443
+application/x-www-form-urlencoded;192.168.0.112;49348;data.mistat.intl.xiaomi.com;212.145.41.193;80
+application/x-protobuf;192.168.0.112;49400;notifications-pa.googleapis.com;172.217.17.10;443
+application/x-protobuf;192.168.0.112;49428;inbox.google.com;142.250.200.101;443
+No content type;192.168.0.112;49452;connectivitycheck.gstatic.com;142.250.184.3;80
+No content type;192.168.0.112;49506;app.miui.com;20.47.97.238;80
+application/json;192.168.0.112;49604;api.apptentive.com;54.83.18.201;443
+"application/json; charset=utf-8";192.168.0.112;49608;and-legal.pulse.weatherbug.net;52.55.133.176;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49592;cdn.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;49588;firebase-settings.crashlytics.com;142.250.184.163;443
+"application/json; charset=utf-8";192.168.0.112;49598;and-loc.pulse.weatherbug.net;52.71.110.138;443
+application/json;192.168.0.112;49618;api.apptentive.com;54.83.18.201;443
+application/json;192.168.0.112;49616;api.apptentive.com;54.83.18.201;443
+application/x-protobuf;192.168.0.112;49624;api.appodealx.com;104.18.0.5;443
+No content type;192.168.0.112;49634;and-push.pulse.weatherbug.net;52.55.133.176;443
+No content type;192.168.0.112;49660;acdn.adnxs.com;151.101.193.108;443
+application/json;192.168.0.112;49600;int.dewrain.world;34.95.120.195;443
+No content type;192.168.0.112;49622;and-lx.pulse.weatherbug.net;54.85.151.247;443
+application/json;192.168.0.112;49616;api.apptentive.com;54.83.18.201;443
+"application/json; charset=utf-8";192.168.0.112;49628;and-em.pulse.weatherbug.net;52.6.220.77;443
+"application/json; charset=utf-8";192.168.0.112;49638;and-ads.pulse.weatherbug.net;54.87.204.242;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+No content type;192.168.0.112;49654;mads.amazon-adsystem.com;52.94.236.25;443
+"application/json; charset=utf-8";192.168.0.112;49630;and-em.pulse.weatherbug.net;52.6.220.77;443
+No content type;192.168.0.112;49636;and-cmpn.pulse.weatherbug.net;3.227.70.219;443
+"application/json; charset=utf-8";192.168.0.112;49662;and-ads.pulse.weatherbug.net;54.87.204.242;443
+No content type;192.168.0.112;49660;acdn.adnxs.com;151.101.193.108;443
+application/json;192.168.0.112;49616;api.apptentive.com;54.83.18.201;443
+"application/json; charset=utf-8";192.168.0.112;49680;and-ads.pulse.weatherbug.net;54.87.204.242;443
+application/json;192.168.0.112;49682;api-eu.bidmachine.io;172.64.143.35;443
+"application/json; charset=utf-8";192.168.0.112;49672;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+"application/json; charset=utf-8";192.168.0.112;49676;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+"application/json; charset=utf-8";192.168.0.112;49684;and-ads.pulse.weatherbug.net;54.87.204.242;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49674;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+application/x-protobuf;192.168.0.112;49682;api-eu.bidmachine.io;172.64.143.35;443
+text/plain;192.168.0.112;49702;ib.adnxs.com;185.89.211.116;443
+text/plain;192.168.0.112;49706;ib.adnxs.com;185.89.211.116;443
+No content type;192.168.0.112;49700;mediation.adnxs.com;37.252.172.68;443
+"application/json; charset=utf-8";192.168.0.112;49686;and-ads.pulse.weatherbug.net;54.87.204.242;443
+"application/json; charset=utf-8";192.168.0.112;49678;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+"application/json; charset=utf-8";192.168.0.112;49710;and-em.pulse.weatherbug.net;52.6.220.77;443
+No content type;192.168.0.112;49700;mediation.adnxs.com;37.252.172.68;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+"application/json; charset=utf-8";192.168.0.112;49716;and-em.pulse.weatherbug.net;52.6.220.77;443
+application/x-www-form-urlencoded;192.168.0.112;49712;aax-eu.amazon-adsystem.com;52.94.223.167;443
+application/json;192.168.0.112;49720;mediation.adnxs.com;37.252.172.68;443
+application/json;192.168.0.112;49718;co.dewrain.world;34.117.177.88;443
+No content type;192.168.0.112;49732;and-obs.pulse.weatherbug.net;52.71.110.138;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;49738;and-em.pulse.weatherbug.net;52.6.220.77;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.193.44;443
+No content type;192.168.0.112;49740;and-con.pulse.weatherbug.net;52.55.133.176;443
+No content type;192.168.0.112;49758;and-obs.pulse.weatherbug.net;52.71.110.138;443
+application/x-www-form-urlencoded;192.168.0.112;49774;accounts.google.com;142.250.200.77;443
+application/json;192.168.0.112;49742;crashlyticsreports-pa.googleapis.com;142.250.185.3;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49786;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49760;and-obs.pulse.weatherbug.net;52.71.110.138;443
+No content type;192.168.0.112;49810;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49798;and-otdr.pulse.weatherbug.net;100.24.220.50;443
+No content type;192.168.0.112;49808;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49802;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49824;accounts.google.com;142.250.200.77;443
+No content type;192.168.0.112;49816;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49812;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49788;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49776;and-maps.pulse.weatherbug.net;3.215.245.182;443
+No content type;192.168.0.112;49800;and-aqi.pulse.weatherbug.net;52.71.110.138;443
+No content type;192.168.0.112;49772;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49818;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49822;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49820;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49784;api.mapbox.com;18.154.23.187;443
+No content type;192.168.0.112;49836;accounts.doubleclick.net;172.217.168.174;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49838;accounts.youtube.com;142.250.200.142;443
+No content type;192.168.0.112;49790;api.mapbox.com;18.154.23.187;443
+application/x-www-form-urlencoded;192.168.0.112;49774;accounts.google.com;142.250.200.77;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+text/plain;192.168.0.112;49864;trc.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49862;gum.criteo.com;178.250.0.157;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49858;and-maps.api.weatherbug.net;54.192.95.125;443
+No content type;192.168.0.112;49858;and-maps.api.weatherbug.net;54.192.95.125;443
+No content type;192.168.0.112;49858;and-maps.api.weatherbug.net;54.192.95.125;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+"text/plain;charset=UTF-8";192.168.0.112;49864;trc.taboola.com;151.101.193.44;443
+application/x-www-form-urlencoded;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49902;vidstat.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49900;vidstat.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49906;imprammp.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49904;am-vid-events.taboola.com;141.226.228.48;443
+text/plain;192.168.0.112;49864;trc.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+"text/plain;charset=UTF-8";192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;52.94.223.167;443
+No content type;192.168.0.112;49904;am-vid-events.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;49906;imprammp.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;52.94.223.167;443
+No content type;192.168.0.112;49922;pips.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49924;match.adsrvr.org;146.112.61.110;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+No content type;192.168.0.112;49926;taboola-supply-partners.tremorhub.com;54.158.125.167;443
+No content type;192.168.0.112;49916;and-cm.pulse.weatherbug.net;100.24.220.50;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;67.220.228.203;443
+No content type;192.168.0.112;49918;and-cm.pulse.weatherbug.net;100.24.220.50;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+application/x-www-form-urlencoded;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49924;match.adsrvr.org;146.112.61.110;443
+No content type;192.168.0.112;49926;taboola-supply-partners.tremorhub.com;54.158.125.167;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+"application/json; charset=utf-8";192.168.0.112;49920;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+No content type;192.168.0.112;49922;pips.taboola.com;151.101.65.44;443
+"application/json; charset=utf-8";192.168.0.112;49650;weatherbug.adsbynimbus.com;18.205.44.233;443
+"application/json; charset=utf-8";192.168.0.112;49932;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;67.220.228.203;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+text/plain;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;67.220.228.203;443
+application/json;192.168.0.112;49720;mediation.adnxs.com;37.252.172.68;443
+"text/plain;charset=UTF-8";192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49906;imprammp.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;67.220.228.203;443
+application/x-www-form-urlencoded;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49926;taboola-supply-partners.tremorhub.com;54.158.125.167;443
+No content type;192.168.0.112;49924;match.adsrvr.org;146.112.61.110;443
+No content type;192.168.0.112;49904;am-vid-events.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;49922;pips.taboola.com;151.101.65.44;443
+application/x-protobuf;192.168.0.112;49938;api-eu.bidmachine.io;172.64.143.35;443
+No content type;192.168.0.112;49712;aax-eu.amazon-adsystem.com;67.220.228.203;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49948;il-trc-events.taboola.com;185.106.33.48;443
+text/plain;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49958;eus.rubiconproject.com;23.216.122.150;443
+No content type;192.168.0.112;49844;sb.scorecardresearch.com;108.157.98.79;443
+No content type;192.168.0.112;49902;vidstat.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+"text/plain;charset=UTF-8";192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+"application/json; charset=utf-8";192.168.0.112;49968;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+text/plain;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49906;imprammp.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49900;vidstat.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49904;am-vid-events.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;49922;pips.taboola.com;151.101.65.44;443
+application/x-www-form-urlencoded;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+application/x-www-form-urlencoded;192.168.0.112;37000;api.device.xiaomi.net;20.47.97.181;80
+No content type;192.168.0.112;49762;cdn.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49978;pixel.rubiconproject.com;69.173.144.165;443
+No content type;192.168.0.112;49986;cm.g.doubleclick.net;142.250.200.66;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49926;taboola-supply-partners.tremorhub.com;54.158.125.167;443
+No content type;192.168.0.112;49924;match.adsrvr.org;146.112.61.110;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+No content type;192.168.0.112;49930;images.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49990;sync.mathtag.com;185.29.134.244;443
+No content type;192.168.0.112;49928;ups.analytics.yahoo.com;18.156.0.31;443
+No content type;192.168.0.112;49984;id.rlcdn.com;35.244.174.68;443
+No content type;192.168.0.112;49986;cm.g.doubleclick.net;142.250.200.66;443
+No content type;192.168.0.112;49992;cms.quantserve.com;91.228.74.200;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;49902;vidstat.taboola.com;151.101.65.44;443
+No content type;192.168.0.112;49978;pixel.rubiconproject.com;69.173.144.165;443
+application/x-www-form-urlencoded;192.168.0.112;49864;trc.taboola.com;151.101.1.44;443
+No content type;192.168.0.112;49904;am-vid-events.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;49978;pixel.rubiconproject.com;69.173.144.165;443
+No content type;192.168.0.112;49988;secure.adnxs.com;185.83.142.19;443
+application/x-www-form-urlencoded;192.168.0.112;37020;data.mistat.intl.xiaomi.com;212.145.41.193;80
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+"text/plain;charset=UTF-8";192.168.0.112;37022;vidanalytics.taboola.com;151.101.129.44;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+"text/plain;charset=UTF-8";192.168.0.112;37022;vidanalytics.taboola.com;151.101.129.44;443
+"application/json; charset=utf-8";192.168.0.112;37028;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;37060;0.0.0.0;0.0.0.0;80
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+text/plain;192.168.0.112;37068;wf.taboola.com;151.101.1.44;443
+text/plain;192.168.0.112;37068;wf.taboola.com;151.101.1.44;443
+"application/json; charset=utf-8";192.168.0.112;37106;api.likee.video;104.166.188.184;80
+No content type;192.168.0.112;37116;0.0.0.0;0.0.0.0;80
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.116;443
+No content type;192.168.0.112;37122;firebase-settings.crashlytics.com;142.250.184.163;443
+application/json;192.168.0.112;37124;firebaseinstallations.googleapis.com;142.250.200.74;443
+application/x-www-form-urlencoded;192.168.0.112;37134;graph.facebook.com;31.13.83.8;443
+application/x-www-form-urlencoded;192.168.0.112;37132;graph.facebook.com;31.13.83.8;443
+application/x-www-form-urlencoded;192.168.0.112;37130;graph.facebook.com;31.13.83.8;443
+application/x-www-form-urlencoded;192.168.0.112;37134;graph.facebook.com;31.13.83.8;443
+application/x-www-form-urlencoded;192.168.0.112;37132;graph.facebook.com;31.13.83.8;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.44;443
+"application/json; charset=utf-8";192.168.0.112;37106;api.likee.video;104.166.188.184;80
+text/plain;192.168.0.112;37150;am-wf.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;37158;img.like.video;164.90.87.94;80
+No content type;192.168.0.112;37160;img.like.video;164.90.87.94;80
+text/plain;192.168.0.112;37150;am-wf.taboola.com;141.226.228.48;443
+No content type;192.168.0.112;37162;0.0.0.0;0.0.0.0;80
+application/x-www-form-urlencoded;192.168.0.112;37176;data.mistat.intl.xiaomi.com;212.145.41.193;80
+"application/json; charset=utf-8";192.168.0.112;37106;api.likee.video;104.166.188.184;80
+application/json;192.168.0.112;37182;update.googleapis.com;142.250.185.3;443
+No content type;192.168.0.112;37192;edgedl.me.gvt1.com;34.104.35.123;80
+application/json;192.168.0.112;37182;update.googleapis.com;142.250.185.3;443
+No content type;192.168.0.112;37192;edgedl.me.gvt1.com;34.104.35.123;80
+application/json;192.168.0.112;37182;update.googleapis.com;142.250.185.3;443
+No content type;192.168.0.112;37192;edgedl.me.gvt1.com;34.104.35.123;80
+application/x-www-form-urlencoded;192.168.0.112;37230;data.mistat.intl.xiaomi.com;212.145.41.193;80
+application/json;192.168.0.112;37182;update.googleapis.com;142.250.185.3;443
+application/x-www-form-urlencoded;192.168.0.112;37248;data.mistat.intl.xiaomi.com;212.145.41.193;80
+No content type;192.168.0.112;37292;connectivitycheck.gstatic.com;142.250.184.3;80
+"application/json; charset=utf-8";192.168.0.112;37316;api.likee.video;104.166.188.184;80
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.79;443
+No content type;192.168.0.112;49596;pc.va.app.ext.weatherbug.com;18.154.48.79;443
+application/x-www-form-urlencoded;192.168.0.112;37324;graph.facebook.com;31.13.83.8;443
+"application/json; charset=utf-8";192.168.0.112;37316;api.likee.video;104.166.188.184;80
+application/x-www-form-urlencoded;192.168.0.112;37320;graph.facebook.com;31.13.83.8;443
+application/x-www-form-urlencoded;192.168.0.112;37322;graph.facebook.com;31.13.83.8;443
+"application/json; charset=utf-8";192.168.0.112;37346;and-clog2.pulse.weatherbug.net;18.204.249.135;443
+No content type;192.168.0.112;37444;pc.va.app.ext.weatherbug.com;18.154.48.44;443
+"application/json; charset=utf-8";192.168.0.112;37448;and-clog2.pulse.weatherbug.net;50.19.191.100;443
+"application/json; charset=utf-8";192.168.0.112;37450;and-clog2.pulse.weatherbug.net;50.19.191.100;443
