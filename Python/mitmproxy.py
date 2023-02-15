@@ -5,8 +5,6 @@ from mitmproxy import http
 import socket
 
 # Función que se ejecuta cada vez que se realiza una solicitud
-
-
 def request(flow: http.HTTPFlow) -> None:
     # Inicializamos la variable content_type
     content_type = ''
