@@ -6,39 +6,45 @@ import socket
 
 # Función que se ejecuta cada vez que se realiza una solicitud
 def request(flow: http.HTTPFlow) -> None:
-    # Inicializamos la variable content_type
-    content_type = ''
+    # Inicializamos las variables
+    app_name = ''
+    ip_address_client = ''
+    ip_address_server = ''
+    port_client = ''
+    port_server = ''
+    url = ''
 
-    # Obtenemos el tipo de contenido de la solicitud
-    if flow.request:
-        if flow.request.headers:
-            content_type = flow.request.headers.get("Content-Type")
-            if not content_type:
-                content_type = 'No content type'
+    #Obtenemos el nombre de la aplicación que realiza la solicitud
+    if flow.request.headers:
+        # Si la solicitud es realizada por una aplicación móvil
+        if 'User-Agent' in flow.request.headers and 'Mobile' in flow.request.headers.get("User-Agent"):
+            # Obtenemos el nombre de la aplicación
+            if 'X-Requested-With' in flow.request.headers:
+                app_name = flow.request.headers.get("X-Requested-With")
+            # Si no se encuentra el nombre de la aplicación, se obtiene el User-Agent
+            elif 'User-Agent' in flow.request.headers:
+                app_name = flow.request.headers.get("User-Agent")
 
-    # Obtenemos la dirección IP y el puerto del cliente
-    client_address = flow.client_conn.address
-    # Obtenemos la dirección IP del servidor
-    server_host = flow.request.host
-    # Obtenemos el puerto del servidor
-    server_port = flow.request.port
-    # Obtenemos el nombre del servidor
-    server_ip = socket.gethostbyname(server_host)
+    #Dirección IP (número) y puerto del cliente
+    if flow.client_conn.address:
+        ip_address_client = socket.gethostbyname(socket.gethostname())
+        port_client =  flow.client_conn.address[1]
+    
+    #Dirección IP (número) y puerto del servidor
+    if flow.request.host:
+        ip_address_server =  socket.gethostbyname(flow.request.host)
+        port_server =  flow.request.port
 
-    # Comprobamos si la dirección IP y el puerto del cliente ya están en el archivo
-    with open('mitm/com_aws_android_mitm.csv', mode='r', newline='') as file:
-        existing_rows = [row[1] for row in csv.reader(file, delimiter=";")]
+    #URL de la solicitud
+    url = flow.request.pretty_url
 
-    # Si no están, los añadimos
-    with open('mitm/com_aws_android_mitm.csv', mode='a', newline='') as file:
+    # Creamos un archivo CSV para almacenar los datos, si ya está creado, no se crea de nuevo y se añaden los datos
+    with open('mitm/mitm_connections.csv', mode='a', newline='') as file:
         writer = csv.writer(file, delimiter=";")
 
         # Si el archivo está vacío, añadimos el encabezado
         if file.tell() == 0:
-            writer.writerow(["content_type", "l_addr", "l_port",
-                            "r_address", "r_addr_ip", "r_port"])
-
-        # Si no está vacío, comprobamos si la dirección IP y el puerto del cliente ya están en el archivo
-        if client_address[1] not in existing_rows:
-            writer.writerow([content_type, client_address[0],
-                            client_address[1], server_host, server_ip, server_port])
+            writer.writerow(["App", "IP_Client", "Port_Client", "IP_Server", "Port_Server", "URL"])
+        
+        # Si no está vacío, añadimos los datos
+        writer.writerow([app_name, ip_address_client,  port_client, ip_address_server, port_server, url])

@@ -1,10 +1,16 @@
 import csv, re
 
-csv_frida_path = 'Javascript\com_aws_android_frida.txt'
-csv_mitm_path = 'Python\mitm\com_aws_android_mitm.csv'
+#Nombre de la aplicación
+app_name = 'com.aws.android'
+
+#Path del archivo CSV generado por frida
+csv_frida_path = 'Javascript/frida_connections/' + app_name.replace('.', '_') + '.csv'
+# Path del archivo CSV generado por mitmproxy.py
+csv_mitm_path = 'mitm/mitm_connections.csv'
 # Almacena los puertos que han establecido una conexión interceptados por frida
 frida_ports_hooked = []
 mitmproxy_ports_hooked = []
+
 
 # Filtramos solo las filas correspondientes a la intercepción de socket.getOutputStream()
 with open(csv_frida_path, 'r', encoding='utf-16') as file:
@@ -19,22 +25,20 @@ with open(csv_frida_path, 'r', encoding='utf-16') as file:
             lPort = port.group(1)
             frida_ports_hooked.append(lPort)
             
-# Vemos qué puertos ha interceptado el proxy
+
+#Abrimos el archivo CSV generado por mitmproxy.py
 with open(csv_mitm_path, 'r') as file:
     reader = csv.reader(file, delimiter=";")
-    # Salta la primera fila
-    next(reader)
+    # Buscamos solo las filas que contengan el nombre de la aplicación
     for row in reader:
-        mitmproxy_ports_hooked.append(row[1])
+        if app_name in row[0]:
+            # Añadimos el puerto al array de puertos interceptados por mitmproxy
+            mitmproxy_ports_hooked.append(row[2])
 
-#Convertimos en una lista para eliminar repetidos
-frida_ports_hooked = list(set(frida_ports_hooked))
-mitmproxy_ports_hooked = list(set(mitmproxy_ports_hooked))
-
-#Mostramos los puertos interceptados por ambos métodos
-
-puertos_coinciden = [puerto for puerto in mitmproxy_ports_hooked if puerto in frida_ports_hooked]
-puertos_no_coinciden = [puerto for puerto in mitmproxy_ports_hooked if puerto not in frida_ports_hooked]
-
-print("Puertos que coinciden:", puertos_coinciden)
-print("Puertos que no coinciden:", puertos_no_coinciden)
+# Creamos un csv con el nombre de la aplicación y el numero de puertos interceptados por frida y mitmproxy
+with open('Python/matches/comparative_ports.csv', mode='w', newline='') as file:
+    writer = csv.writer(file, delimiter=";")
+    # Añadimos el encabezado si el archivo está vacío
+    if file.tell() == 0:
+        writer.writerow(["App", "Frida_Ports", "mitmproxy_Ports"])
+    writer.writerow([app_name, len(frida_ports_hooked), len(mitmproxy_ports_hooked)])
