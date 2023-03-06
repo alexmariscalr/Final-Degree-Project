@@ -1,5 +1,5 @@
 // -----------------@Autor: Antonio Javier de Lucas LÃ³pez y Alejandro Mariscal Romero
-
+// Script para la extracción de datos de tráfico de una aplicación Android
 setTimeout(function () {
   Java.perform(function () {
     console.log("===");
