@@ -1393,30 +1393,141 @@ setTimeout(function () {
       );
     }
 
+    let Thread = Java.use("java.lang.Thread");
+
+    //1---------Java NIO SocketChannel - Open: Open a socket channel
+    let SocketChannel = Java.use("java.nio.channels.SocketChannel");
+
     try {
-      let Thread = Java.use("java.lang.Thread");
-      let Socket = Java.use("java.net.Socket");
+      SocketChannel.open.implementation = function () {
+        let traceClasses = [];
+        let traces = Thread.currentThread().getStackTrace();
+        for (let trace of traces) {
+          traceClasses.push(trace.getClassName());
+        }
+        let socket = this.socket();
+        let client = socket.getLocalAddress();
+        let port = socket.getLocalPort();
+        send(
+          '{"type": "socketChannel.open","trace:"' +
+            traceClasses +
+            '","client": "' +
+            client +
+            ":" +
+            port +
+            '","domain": "N/A","event":"intercept","status":true}'
+        );
+        return this.open();
+      };
+    } catch {
+      send(
+        '{"type": "socketChannel.open","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+    try {
+      SocketChannel.open.overload("java.net.SocketAddress").implementation =
+        function (addr) {
+          let traceClasses = [];
+          let traces = Thread.currentThread().getStackTrace();
+          for (let trace of traces) {
+            traceClasses.push(trace.getClassName());
+          }
+          let socket = this.socket();
+          let client = socket.getLocalAddress();
+          let port = socket.getLocalPort();
+          send(
+            '{"type": "socketChannel.open","trace:"' +
+              traceClasses +
+              '","client": "' +
+              client +
+              ":" +
+              port +
+              '","domain": "N/A","event":"intercept","status":true}'
+          );
+          return this.open(addr);
+        };
+    } catch {
+      send(
+        '{"type": "socketChannel.open","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+
+    //2----------Socket- connect: Method to intercept socket connections
+    let Socket = Java.use("java.net.Socket");
+    try {
+      Socket.connect.overload("java.net.SocketAddress").implementation =
+        function (endpoint) {
+          let traceClasses = [];
+          let traces = Thread.currentThread().getStackTrace();
+          for (let trace of traces) {
+            traceClasses.push(trace.getClassName());
+          }
+          let client = this.getLocalAddress();
+          let port = this.getLocalPort();
+          send(
+            '{"type": "socket.connect","trace:"' +
+              traceClasses +
+              '","client": "' +
+              client +
+              ":" +
+              port +
+              '","domain": "N/A","event":"intercept","status":true}'
+          );
+          return this.connect(endpoint);
+        };
+    } catch {
+      send(
+        '{"type": "socket.connect","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+
+    try {
+      Socket.connect.overload("java.net.SocketAddress", "int").implementation =
+        function (endpoint, timeout) {
+          let traceClasses = [];
+          let traces = Thread.currentThread().getStackTrace();
+          for (let trace of traces) {
+            traceClasses.push(trace.getClassName());
+          }
+          let client = this.getLocalAddress();
+          let port = this.getLocalPort();
+          send(
+            '{"type": "socket.connect","trace:"' +
+              traceClasses +
+              '","client": "' +
+              client +
+              ":" +
+              port +
+              '","domain": "N/A","event":"intercept","status":true}'
+          );
+          return this.connect(endpoint, timeout);
+        };
+      send(
+        '{"type": "socket.connect","domain": "N/A","event":"setup","status":true}'
+      );
+    } catch {
+      send(
+        '{"type": "socket.connect","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+
+    //3-------------- Socket - getOutputStream: Output stream of the socket
+    try {
       Socket.getOutputStream.implementation = function () {
         let traceClasses = [];
         let traces = Thread.currentThread().getStackTrace();
         for (let trace of traces) {
           traceClasses.push(trace.getClassName());
         }
-        let lAddr = this.getLocalAddress();
-        let lPort = this.getLocalPort();
-        let rAddr = this.getRemoteSocketAddress();
-        let rPort = this.getPort();
+        let client = this.getLocalAddress();
+        let port = this.getLocalPort();
         send(
           '{"type": "socket.getOutputStream","trace:"' +
             traceClasses +
-            '","lAddr": "' +
-            lAddr +
-            '","lPort": "' +
-            lPort +
-            '","rAddr": "' +
-            rAddr +
-            '","rPort": "' +
-            rPort +
+            '","client": "' +
+            client +
+            ":" +
+            port +
             '","domain": "N/A","event":"intercept","status":true}'
         );
         return this.getOutputStream();
@@ -1427,6 +1538,64 @@ setTimeout(function () {
     } catch (err) {
       send(
         '{"type": "socket.getOutputStream","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+
+    //4----------------SSLContext - getInstance: Creation of SSL Context
+    try {
+      let SSLContext = Java.use("javax.net.ssl.SSLContext");
+      SSLContext.getInstance.overload("java.lang.String").implementation =
+        function (protocol) {
+          let traceClasses = [];
+          let traces = Thread.currentThread().getStackTrace();
+          for (let trace of traces) {
+            traceClasses.push(trace.getClassName());
+          }
+          send(
+            '{"type": "SSLContext.getInstance","trace:"' +
+              traceClasses +
+              '","client": "N/A","domain": "N/A","event":"intercept","status":true}'
+          );
+          return this.getInstance(protocol);
+        };
+      send(
+        '{"type":"SSLContext.getInstance","domain": "N/A","event":"setup","status":true}'
+      );
+    } catch (err) {
+      send(
+        '{"type": "SSLContext.getInstance","domain": "N/A","event":"setup","status":false}'
+      );
+    }
+
+    //5 ----------------- Socket - bind: Bind the socket to a local address
+    try {
+      Socket.bind.overload("java.net.SocketAddress").implementation = function (
+        bindpoint
+      ) {
+        let traceClasses = [];
+        let traces = Thread.currentThread().getStackTrace();
+        for (let trace of traces) {
+          traceClasses.push(trace.getClassName());
+        }
+        let client = this.getLocalAddress().getHostAddress();
+        let port = this.getLocalPort();
+        send(
+          '{"type": "socket.bind","trace:"' +
+            traceClasses +
+            '","client": "' +
+            client +
+            ":" +
+            port +
+            '","domain": "N/A","event":"intercept","status":true}'
+        );
+        return this.bind(bindpoint);
+      };
+      send(
+        '{"type":"socket.bind","domain": "N/A","event":"setup","status":true}'
+      );
+    } catch (err) {
+      send(
+        '{"type": "socket.bind","domain": "N/A","event":"setup","status":false}'
       );
     }
   });

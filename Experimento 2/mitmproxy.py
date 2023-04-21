@@ -1,4 +1,5 @@
 from mitmproxy import http
+from mitmproxy import tcp
 import csv
 import socket
 import json
@@ -41,7 +42,6 @@ def request(flow: http.HTTPFlow) -> None:
     connection.url = flow.request.url
     if len(connection.url) > 30:
         connection.url = connection.url[:30] + "..."
-
     write_connections(connection)
 
 
@@ -53,7 +53,6 @@ def response(flow: http.HTTPFlow) -> None:
     connection.client = flow.client_conn.address[0] + \
         ":" + str(flow.client_conn.address[1])
     connection.url = '-'
-
     write_connections(connection)
 
 
@@ -63,6 +62,14 @@ def error(flow: http.HTTPFlow) -> None:
         ":" + str(flow.client_conn.address[1])
     # Mensaje de error y tipo de error
     connection.error = flow.error.msg
+    write_connections(connection)
+
+
+def tcp_message(flow: tcp.TCPFlow):
+    message = flow.messages[-1]
+    message.content = message.content.replace(b"foo", b"bar")
+    connection = Connection('N/A', message.from_client,
+                            '', 'Proxy-TCP', '', '-')
     write_connections(connection)
 
 
